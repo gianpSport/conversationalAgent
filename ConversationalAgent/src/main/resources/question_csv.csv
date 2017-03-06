@@ -1,0 +1,846 @@
+EXAMPLE&CLASS\\ \hline
+ Vorrei  acquistare  una  nuova  macchina,  quali  sono  le  ultime  novità? & 1\\  \hline 
+ Vorrei  acquistare  una  nuova  macchina,  budget  massimo  150  Euro & 1\\  \hline 
+ Avete  promozioni  sulle  macchine? & 1\\  \hline 
+ Avete  promozioni  sulle  capsule? & 1\\  \hline 
+ Quali  sono  i  nuovi  gusti  speciali  disponibili? & 1\\  \hline 
+ Quali  sono  le  capsule  con  la  maggiore  intensità? & 3\\  \hline 
+ Quali  sono  le  capsule  con  intensità  maggiore  a  qualità  rossa? & 4\\  \hline 
+ Avete  capsule  DEC? & 1\\  \hline 
+ Avete  capsule  decaffeinate? & 1\\  \hline 
+ Quanto  è  la  capienza  massima  in  litri  della  macchina  jolie? & 1\\  \hline 
+ Se  acquisto  una  macchina,  fornite  anche  la  confezione  regalo? & 5\\  \hline 
+ Quante  capsule  sono  contenute  in  una  confezione  piccola? & 2\\  \hline 
+ Quanti  tubetti  da  10  capsule  sono  presenti  nella  confezione  grande? & 6\\  \hline 
+ Le  capsule  hanno  una  scadenza? & 2\\  \hline 
+ Ogni  quanto  consigliate  di  effettuare  la  decalcificazione  della  macchina? & 7\\  \hline 
+ In  quale  negozio  posso  acquistarlo? & 8\\  \hline 
+ Qual  è  il  negozio  più  vicino  a  casa  mia? & 8\\  \hline 
+ Posso  acquistare  da  internet? & 5\\  \hline 
+   Ci  sono  spese  di  spedizione? & 5\\  \hline 
+ In  quanto  tempo  arriva? & 5\\  \hline 
+ Ci  sono  offerte? & 1\\  \hline 
+ Ci  sono  recensioni  sui  vari  prodotti? & 9\\  \hline 
+ Ci  sono  prodotti  nuovi? & 1\\  \hline 
+ C’è  una  descrizione  per  ogni  gusto  di  caffè? & 9\\  \hline 
+ ci  sono  capsule  biodegradabili? & 1\\  \hline 
+ qual  è  il  prezzo  medio  per  ogni  caffè? & 3\\  \hline 
+ avete  capsule  solo  per  il  caffè  oppure  anche  the e  caffè  d'orzo? & 1\\  \hline 
+ con  quali  marche  di  macchine  da  caffè  sono  compatibili  le  vostre  capsule? & 10\\  \hline 
+ le  capsule  compatibili  con  le  macchine  da  caffè lavazza  rovinano  la  macchina? & 6\\  \hline 
+ a  parte  online  dove  posso  comprare  le  capsule? & 8\\  \hline 
+ posso  trovare  le  capsule  lavazza  anche  nei  supermercati? & 8\\  \hline 
+ la  macchina  del  caffè  lavazza fa  anche  il  cappuccino? & 1\\  \hline 
+ quale  tipo  di  capsula  di  caffè  e  più  adatta  per  fare  un  cappuccino? & 6\\  \hline 
+ le  macchine  del  caffè  lavazza  sono  compatibili  anche  con  capsule  di  altre  marche? & 10\\  \hline 
+ ci  sono  capsule  anche  di  latte  in  polvere? & 1\\  \hline 
+ qual  è  il  caffè  più  caro? & 1\\  \hline 
+ qual  è  il  caffè  più  economico? & 1\\  \hline 
+ ogni  quanti  caffè  devo  svuotare  la  macchina  della  capsule  vuote? & 6\\  \hline 
+ ci  sono  confezioni  di  capsule  miste  per  poter  assaggiare  tutte  le  qualità? & 6\\  \hline 
+ Avete  capsule  100%  arabica? & 1\\  \hline 
+ Che  differenza  c'e'  tra  le  varie  macchine  del  caffe'  che  proponete? & 4\\  \hline 
+ Esiste  la  possibilità  di  avere  in  comodato  d'uso  le  macchine  del  caffe'  garantendo  l'acquisto  di  un  numero  minimo  di  capsule? & 6\\  \hline 
+ C'e'  un  ordine  minimo  di  acquisto  per  non  pagare  le  spese  di  spedizione? & 6\\  \hline 
+ Quante  capsule  ci  sono  in  ogni  confezione? & 2\\  \hline 
+ Quanto  costa  una  confezione  con  16  capsule? & 2\\  \hline 
+ Qual  è  il  prezzo  minimo  per  una  macchina  del  caffe'  a  capsule? & 3\\  \hline 
+ Esistono  capsule  biodegradabili? & 1\\  \hline 
+ Esistono  diversi  formati  di  capsule? & 1\\  \hline 
+ Avete  capsule  con  altre  varietà  di  gusti  oltre  al  caffe'? & 2\\  \hline 
+ Per  quanti  caffe'  al  giorno  al  massimo  sono  garantite  le  vostre  macchine  del  caffe'? & 7\\  \hline 
+ Avete  macchine  del  caffe'  che  hanno  la  possibilità  di  fare  anche  il  cappuccino? & 1\\  \hline 
+ Che  pressione  hanno  le  vostre  macchine  del  caffe'? & 2\\  \hline 
+ Avete  macchine  del  caffe'  programmabili  ? & 1\\  \hline 
+ Che  capacità  dell'acqua  hanno  mediamente  le  vostre  macchine  del  caffe'? & 3\\  \hline 
+ Le  vostre  macchine  del  caffe'  hanno  lo  spegnimento  automatico  in  caso  di  inutilizzo? & 1\\  \hline 
+ Quali  capsule  avete  a  meno  di  5  euro? & 1\\  \hline 
+ Mi  servono  confezioni  di  lavazza  qualità  rossa & 1\\  \hline 
+ Vorrei  capsule  di  composizione  arabica & 1\\  \hline 
+ Avete  delle  capsule  per  caffè  al  ginseng? & 1\\  \hline 
+ Quali  sono  le  capsule  più  costose  che  avete? & 3\\  \hline 
+ Che  capsule  mi  consigliate  per  caffè  all’orzo? & 1\\  \hline 
+ Vorrei  delle  capsule  con  tostatura  forte & 1\\  \hline 
+ Mi  date  capsule  con  gusto  intenso  e  corposo? & 1\\  \hline 
+ Vorrei  una  macchina  da  caffè  leggera  e  grigia  metallizzata & 1\\  \hline 
+   Quali  macchine  da  caffè  avete  con  più  di  7  capsule & 6\\  \hline 
+ Vorrei  una  macchina  da  caffè  con  serbatoio  più  grande  di  mezzo  litro & 1\\  \hline 
+ Macchina  per  caffè  pronto  in  meno  di  cinquanta  secondi & 1\\  \hline 
+ Avete  macchine  da  caffè  in  acciaio,  rosse  o  blu? & 1\\  \hline 
+ Vorrei  delle  macchine  della  serie  fantasia  rossa  e  veloce & 1\\  \hline 
+ Mi  indicate  le  più  economiche  macchine  da  caffè & 3\\  \hline 
+ Quanto  dura  la  promozione   per  la  macchina  da  caffè  lavazza  minù? & 2\\  \hline 
+   Insieme  alla  macchine  per  il  caffè  vendete  anche  set  di  tazzine  lavazza? & 6\\  \hline 
+ Sono  disponibili  promozioni  per  le  capsule  lavazza? & 1\\  \hline 
+ Posso  acquistare  il  set  di  accessori  seletti  senza  la  macchina  jolie? & 6\\  \hline 
+ Le  macchine  da  caffè  sono  compatibili  con  qualsiasi  tipo  di  capsula? & 10\\  \hline 
+ Quanto  dura  la  garanzia  della  macchina  magia  plus? & 2\\  \hline 
+ Ci  sono  anche  capsule  di  caffè  decaffeinato? & 1\\  \hline 
+ Quali  sono  le  capsule  di  decaffeinato? & 1\\  \hline 
+ Quali  sono  i  tempi  di  consegna  delle  capsule? & 5\\  \hline 
+ La  macchina  da  caffè  fantasia  è  disponibile  anche  di  colore  lime? & 1\\  \hline 
+ La  manutenzione  delle  macchine  da  caffè  è  compresa  nel  prezzo  di  acquisto? & 6\\  \hline 
+ Quali  sono  le  macchine  con  sistema  thermoblock? & 1\\  \hline 
+ Quali  sono  le  capsule  con  intensità  10  o  più? & 1\\  \hline 
+ Quali  sono  le  capsule  con  tostatura  scura? & 1\\  \hline 
+ La  macchina  fantasia  scalda  anche  il  latte  per  fare  il  cappuccino? & 1\\  \hline 
+ È  possibile  sottoscrivere  un  abbonamento  per  ordini  periodici  delle  capsule? & 6\\  \hline 
+ Esistono  dei  pacchetti  con  un  mix  di  capsule  in  modo  da  provarle  tutte? & 6\\  \hline 
+ Esiste  un  modo  per  avere  la  macchina  del  caffè  in  comodato  d’uso? & 6\\  \hline 
+ Possono  essere  personalizzate  le  capsule? & 6\\  \hline 
+ Possono  essere  personalizzate  le  macchinette  del  caffè? & 6\\  \hline 
+ Come  è  possibile  conoscere  la  data  di  scadenza  delle  capsule? & 2\\  \hline 
+   Sono  presenti  capsule  100%  biodegradabili? & 1\\  \hline 
+ È  possibile  personalizzare  le  tazzine  o  altri  accessori? & 6\\  \hline 
+ Sono  presenti  capsule  di  caffè  decaffeinato? & 1\\  \hline 
+ Sono  presenti  capsule  di  caffè  all’orzo? & 1\\  \hline 
+ Come  mai  non  è  possibile  filtrare  i  prodotti  per  numero  di  capsule? & 9\\  \hline 
+ È  possibile  avere  pacchi  con  un  numero  personalizzato  di  capsule,  ad  esempio  50  o  100? & 6\\  \hline 
+ Che  garanzia  hanno  le  macchinette  del  caffè? & 2\\  \hline 
+ Avete  anche  macchine  del  caffè  per  bar? & 6\\  \hline 
+ In  quali  macchinette  è  possibile  fare  il  cappuccino? & 1\\  \hline 
+ salve  gentilmente  vorrei  un  consiglio  sull'acquisto  di  una  macchina  del  caffe.  non  ho  molto  spazio  in  cucina  e  vorrei  un  modello  mini,  qual'è  la  piu  piccola  che  avete? & 6\\  \hline 
+ i  colori  sono  personalizzabili? & 6\\  \hline 
+ vorrei  una  macchina  professionale  simile  a  quella  del  bar,  che  mi  consigli? & 6\\  \hline 
+ ciao  potresti  farmi  una  panoramica  sulle  macchine? & 1\\  \hline 
+ vorrei  comprare  la  jolie.  come  procedo  all'acquisto? & 5\\  \hline 
+ quanto  dura  la  promo  delle  macchine? & 2\\  \hline 
+ ciao  vorrei  un  pacco  di  capsule  di  caffe  non  raffinato & 1\\  \hline 
+ mi  consigli  una  scatola  di  caffe  dal  gusto  amaro? & 1\\  \hline 
+ le  capsule  vanno  bene  per  tutte  le  macchinette? & 10\\  \hline 
+ sono  indeciso  tra  aromatico  e  qualità  rossa.  che  differenze  ci  sono? & 4\\  \hline 
+ vorrei  comprare  la  piu  costosa  di  tutte  le  macchinette  che  avete. & 3\\  \hline 
+ ciao  ma  per  fare  il  caffè  e  latte  devo  acquistare  2  capsule  separate  o  avete  una  capsula  specifica? & 6\\  \hline 
+ ciao  non  trovo  sul  sito  una  macchina  del  caffe  che  era  in  promozione  all'unieuro,  quali  avete  in  promozione  voi? & 6\\  \hline 
+ avete  delle  capsule  gusto  miele?? & 1\\  \hline 
+ ciao  ci  sono  sconti  sulla  jolie? & 1\\  \hline 
+ Mi  interessano  le  cialde  per  la  Minù & 10\\  \hline 
+ Ciao,  voglio  comprare  una  macchinetta  da  massimo  100€ & 1\\  \hline 
+ Buongiorno,  vorrei  ordinare  cialde  per  la  mia  macchinetta... & 10\\  \hline 
+ Salve,  sono  interessato  alla  macchinetta  Fantasia.  Posso  avere  le  caratteristiche  tecniche? & 11\\  \hline 
+ Vorrei  comprare  cialde  arabica & 1\\  \hline 
+ Mi  servirebbe  una  macchinetta  con  il  vapore,  quale  mi  consigli? & 1\\  \hline 
+ Avete  delle  macchinette  gialle? & 1\\  \hline 
+ Quali  sono  le  macchinette  in  promozione? & 1\\  \hline 
+ Buondì,  vorrei  comprare  delle  capsule  molto  "intense",  quali  mi  consigliate?  Grazie & 1\\  \hline 
+ Ciao,  mi  si  è  rotto  il  cassetto  porta  capsula  della  Minù,  cosa  posso  fare? & 7\\  \hline 
+ Avete  ricambi  per  la  Espria?  L'ho  comprata  1  anno  fa  e  ora  si  è  rotto  il  sebatoio  dell'acqua & 6\\  \hline 
+ Ho  visto  sul  vostro  sito  la  macchina  Milkup,  mi  puoi  spiegare  a  cosa  serve? & 6\\  \hline 
+ Avete  delle  offerte  per  Natale? & 1\\  \hline 
+ Mi  interessano  la  macchine  professionali,  ne  vendete? & 6\\  \hline 
+ Devo  comprare  una  macchinetta.  Posso  pagare  a  rate? & 5\\  \hline 
+ qual  è  la  differenza  tra  la  macchina  JOLIE  e  la  macchina  FANTASIA  PLUS? & 4\\  \hline 
+ esiste  qualche  macchina  in  cui  è  possibile  programmare  l’ora  per  fare  il  caffè? & 1\\  \hline 
+ c’è  qualche  macchina  che  eroga  acqua  calda,  da  usare  ad  esempio  per  preparare  il  the? & 6\\  \hline 
+ i  pezzi  lavabili,  sono  lavabili  in  lavastoviglie? & 7\\  \hline 
+ ho  un  budjet  di  100  euro,  quale  macchina  potrei  acquistare? & 1\\  \hline 
+ vorrei  una  macchina  che  oltre  al  caffè  faccia  il  cappuccino,  quale  macchina  mi  consigli? & 1\\  \hline 
+ se  la  macchina  non  funziona,  posso  restituirla  gratuitamente? & 7\\  \hline 
+ esiste  una  garanzia  sulle  macchine? & 2\\  \hline 
+ se  esiste  una  garanzia  sulle  macchine,  quant’è? & 2\\  \hline 
+ vengono  prodotte  macchine  solo  nei  colori  presenti  nel  sito?  È  possibile  personalizzarla? & 6\\  \hline 
+ se  si  rompe  qualche  pezzo,  dove  posso  ordinare  i  pezzi  di  ricambio? & 6\\  \hline 
+ quale  capsula  mi  consigli  decaffeinata? & 1\\  \hline 
+ è  possibile  fare  un  pacchetto  regalo  di  capsule? & 5\\  \hline 
+ è  possibile  avere  una  scatola  di  capsule  con  diversi  gusti? & 6\\  \hline 
+ esiste  qualche  offerta  sulla  quantità  delle  capsule  acquistate & 6\\  \hline 
+ Ciao,  a  quanto  ammontano  le  spese  di  consegna  per  le  macchinette? & 5\\  \hline 
+ Qual  è  la  durata  della  garanzia  sulle  macchinette  in  vendita? & 2\\  \hline 
+ Quali  sono  le  principali  differenze  fra  la  Jolie  e  la  Magia  Plus? & 4\\  \hline 
+ Buongiorno,  devo  fare  un  regalo,  entro  quando  devo  completare  l'ordine  di  una  macchinetta  per  riceverla  entro  il  12  aprile? & 6\\  \hline 
+ Ho  appena  concluso  per  errore  un  ordine  di  cialde  "Ricco",  come  posso  modificare  l'ordinazione  in  capsule  del  tipo  "Aromatico"? & 6\\  \hline 
+ Sulla  Electrolux  Fantasia  è  disponibile  la  funzione  di  autospegnimento? & 1\\  \hline 
+ Sono  previsti  sconti  o  promozioni  per  ordini  particolarmente  voluminosi  di  cialde? & 6\\  \hline 
+ Qual  è  la  miscela  più  indicata  per  la  preparazione  del  caffè  latte? & 6\\  \hline 
+ Salve,  devo  sostituire  il  frullino  dentellato  di  una  "A  Modo  Mio",  è  un'operazione  complessa?  Devo  rivolgermi  a  un  tecnico? & 6\\  \hline 
+ Devo  fare  un  regalo  a  un  amico,  è  possibile  richiedere  una  confezione  regalo  per  il  mio  ordine? & 5\\  \hline 
+ Ciao,  vorrei  sapere  in  quali  negozi  posso  trovare  le  vostre  capsule. & 8\\  \hline 
+ Buongiorno,  vorrei  sapere  quante  capsule  sono  presenti  in  una  confezione  di  qualità  rossa. & 2\\  \hline 
+ Salve,  volevo  sapere  quali  sono  le  macchinette  più  veloci  nell'erogazione  del  caffè. & 1\\  \hline 
+ Qual  è  la  macchinetta  che  richiede  la  minor  manutenzione  (pulizia,  rimozione  del  calcare,  sostituzione  filtri,  etc)? & 6\\  \hline 
+ Sono  disponibili  altre  capsule  di  decaffeinato  oltre  alle  Dek  Cremoso? & 6\\  \hline 
+ Posso  sostituire  la  macchina  del  caffè  acquistata  con  un  altro  modello qualora  non  fossi  soddisfatto? & 6\\  \hline 
+ Avete  confezioni  di  capsule  con  gusti assortiti? & 6\\  \hline 
+ Ci  sono  delle  macchine  che  fanno  anche  i  cappuccini? & 1\\  \hline 
+ Quante  capsule  ci  sono  nella  confezione  più  piccola? & 3\\  \hline 
+ Quante  capsule  ci  sono  nella  confezione  più  grande? & 3\\  \hline 
+ Qual  è  il  miglior  modello  di  macchina  del  caffè  in  base  al  rapporto  qualità/prezzo? & 6\\  \hline 
+ Sono  facili  da  usare  le  vostre  macchine  del  caffè? & 7\\  \hline 
+ Quali  capsule  mi  consigliereste  con  gusto  delicato? & 1\\  \hline 
+ Quali  tipi  di  capsule  avete  con  chicco  robusto? & 1\\  \hline 
+ Quali  tipi  di  capsule  avete  con  chicco  Arabico? & 1\\  \hline 
+ Cosa  si  intende  con  macchina  del  caffè  socievole? & 6\\  \hline 
+ Come  faccio  ad  utilizzare  il  buono  sconto? & 9\\  \hline 
+ Io  non  bevo  il  caffè,  quando  saranno  disponibili  nuove  cialde  con  cappuccino,  caffè  latte,  latte  macchiato  ecc? & 6\\  \hline 
+ Quali  sono  i  costi  di  spedizione? & 5\\  \hline 
+ Il  cavo  di  alimentazione  è  universale  o  varia  in  base  al  modello? & 6\\  \hline 
+ Quali  sono  i  tempi  medi  di  consegna  delle  capsule? & 5\\  \hline 
+ In  quali  punti  vendita  fisici  posso  comprare  la  capsule? & 8\\  \hline 
+ Quali  sono  le  differenze  fra  le  varie  macchinette? & 4\\  \hline 
+ Se  non  mi  piace  il  colore  della  macchinetta  ordinata,  posso  cambiarla? & 7\\  \hline 
+ Vorrei  una  scatola  di  capsule  miste,  per  poter  assaggiare  tutte  le  varietà. & 6\\  \hline 
+ Non  trovo  la  capsula  del  tè. & 1\\  \hline 
+ Cosa  vuol  dire  intensità  6? & 6\\  \hline 
+ Io  vorrei  una  macchinetta  sia  piccola  che  silenziosa. & 1\\  \hline 
+ Che  colore  è  il  ciano? & 6\\  \hline 
+ Quali  pezzi  posso  lavare  in  lavastoviglie? & 6\\  \hline 
+ Avete  delle  cialde  che  si  chiamano  Qualità  rossa? & 1\\  \hline 
+ Avete  delle  cialde  che  si  chiamano  Selva  Alta? & 1\\  \hline 
+ Avete  delle  cialde  che  si  chiamano  Cereja  Passita? & 1\\  \hline 
+ Avete  delle  cialde  che  si  chiamano  Aromatico? & 1\\  \hline 
+ Avete  delle  cialde  che  si  chiamano  Ricco? & 1\\  \hline 
+ Avete  delle  cialde  che  si  chiamano  tierra? & 1\\  \hline 
+ Avete  delle  cialde  che  si  chiamano  Magia? & 1\\  \hline 
+ Avete  delle  cialde  che  si  chiamano  Passionale? & 1\\  \hline 
+ Avete  delle  cialde  che  si  chiamano  Soave? & 1\\  \hline 
+ Avete  delle  cialde  che  si  chiamano  lavazza  Intenso? & 1\\  \hline 
+ Avete  delle  cialde  che  si  chiamano  Deck  Cremoso? & 1\\  \hline 
+ Avete  delle  cialde  che  si  chiamano  Delizioso? & 1\\  \hline 
+ Avete  delle  cialde  che  si  chiamano  Divino? & 1\\  \hline 
+ Avete  delle  cialde  che  si  chiamano  dolce? & 1\\  \hline 
+ Avete  delle  cialde  che  si  chiamano  Caffè  ginseng? & 1\\  \hline 
+ Avete  delle  cialde  che  si  chiamano  Orzo? & 1\\  \hline 
+ Che  prezzo  hanno  le  capsule  Qualità  rossa? & 2\\  \hline 
+ Che  prezzo  hanno  le  capsule  Selva  Alta? & 2\\  \hline 
+ Che  prezzo  hanno  le  capsule  Cereja  Passita? & 2\\  \hline 
+ Che  prezzo  hanno  le  capsule  Aromatico? & 2\\  \hline 
+ Che  prezzo  hanno  le  capsule  Ricco? & 2\\  \hline 
+ Che  prezzo  hanno  le  capsule  tierra? & 2\\  \hline 
+ Che  prezzo  hanno  le  capsule  Magia? & 2\\  \hline 
+ Che  prezzo  hanno  le  capsule  Passionale? & 2\\  \hline 
+ Che  prezzo  hanno  le  capsule  Soave? & 2\\  \hline 
+ Che  prezzo  hanno  le  capsule  Intenso? & 2\\  \hline 
+ Che  prezzo  hanno  le  capsule  Deck  Cremoso? & 2\\  \hline 
+ Che  prezzo  hanno  le  capsule  Delizioso? & 2\\  \hline 
+ Che  prezzo  hanno  le  capsule  Divino? & 2\\  \hline 
+ Che  prezzo  hanno  le  capsule  dolce? & 2\\  \hline 
+ Che  prezzo  hanno  le  capsule  Caffè  ginseng? & 2\\  \hline 
+ Che  prezzo  hanno  le  capsule  Orzo? & 2\\  \hline 
+ Che  composizione  hanno  le  capsule  Qualità  rossa? & 2\\  \hline 
+ Che  composizione  hanno  le  capsule  Selva  Alta? & 2\\  \hline 
+ Che  composizione  hanno  le  capsule  Cereja  Passita? & 2\\  \hline 
+ Che  composizione  hanno  le  capsule  Aromatico? & 2\\  \hline 
+ Che  composizione  hanno  le  capsule  Ricco? & 2\\  \hline 
+ Che  composizione  hanno  le  capsule  tierra? & 2\\  \hline 
+ Che  composizione  hanno  le  capsule  Magia? & 2\\  \hline 
+ Che  composizione  hanno  le  capsule  Passionale? & 2\\  \hline 
+ Che  composizione  hanno  le  capsule  Soave? & 2\\  \hline 
+ Che  composizione  hanno  le  capsule  Intenso? & 2\\  \hline 
+ Che  composizione  hanno  le  capsule  Deck  Cremoso? & 2\\  \hline 
+ Che  composizione  hanno  le  capsule  Delizioso? & 2\\  \hline 
+ Che  composizione  hanno  le  capsule  Divino? & 2\\  \hline 
+ Che  composizione  hanno  le  capsule  dolce? & 2\\  \hline 
+ Che  composizione  hanno  le  capsule  Caffè  ginseng? & 2\\  \hline 
+ Che  composizione  hanno  le  capsule  Orzo? & 2\\  \hline 
+ Qual'è  la  tostatura  per  le  capsule  Qualità  rossa? & 2\\  \hline 
+ Qual'è  la  tostatura  per  le  capsule  Selva  Alta? & 2\\  \hline 
+ Qual'è  la  tostatura  per  le  capsule  Cereja  Passita? & 2\\  \hline 
+ Qual'è  la  tostatura  per  le  capsule  Aromatico? & 2\\  \hline 
+ Qual'è  la  tostatura  per  le  capsule  Ricco? & 2\\  \hline 
+ Qual'è  la  tostatura  per  le  capsule  tierra? & 2\\  \hline 
+ Qual'è  la  tostatura  per  le  capsule  Magia? & 2\\  \hline 
+ Qual'è  la  tostatura  per  le  capsule  Passionale? & 2\\  \hline 
+ Qual'è  la  tostatura  per  le  capsule  Soave? & 2\\  \hline 
+ Qual'è  la  tostatura  per  le  capsule  Intenso? & 2\\  \hline 
+ Qual'è  la  tostatura  per  le  capsule  Deck  Cremoso? & 2\\  \hline 
+ Qual'è  la  tostatura  per  le  capsule  Delizioso? & 2\\  \hline 
+ Qual'è  la  tostatura  per  le  capsule  Divino? & 2\\  \hline 
+ Qual'è  la  tostatura  per  le  capsule  dolce? & 2\\  \hline 
+ Qual'è  la  tostatura  per  le  capsule  Caffè  ginseng? & 2\\  \hline 
+ Qual'è  la  tostatura  per  le  capsule  Orzo? & 2\\  \hline 
+ Qual'è  la  differenza  tra  Qualità  rossa  e    Selva  Alta? & 4\\  \hline 
+ Qual'è  la  differenza  tra  Selva  Alta  e    Cereja  Passita? & 4\\  \hline 
+ Qual'è  la  differenza  tra  Cereja  Passita  e    Aromatico? & 4\\  \hline 
+ Qual'è  la  differenza  tra  Aromatico  e    Ricco? & 4\\  \hline 
+ Qual'è  la  differenza  tra  Ricco  e    tierra? & 4\\  \hline 
+ Qual'è  la  differenza  tra  tierra  e    Magia? & 4\\  \hline 
+ Qual'è  la  differenza  tra  Magia  e    Passionale? & 4\\  \hline 
+ Qual'è  la  differenza  tra  Passionale  e    Soave? & 4\\  \hline 
+ Qual'è  la  differenza  tra  Soave  e    Intenso? & 4\\  \hline 
+ Qual'è  la  differenza  tra  Intenso  e    Deck  Cremoso? & 4\\  \hline 
+ Qual'è  la  differenza  tra  Deck  Cremoso  e    Delizioso? & 4\\  \hline 
+ Qual'è  la  differenza  tra  Delizioso  e    Divino? & 4\\  \hline 
+ Qual'è  la  differenza  tra  Divino  e    dolce? & 4\\  \hline 
+ Qual'è  la  differenza  tra  dolce  e    Caffè  ginseng? & 4\\  \hline 
+ Qual'è  la  differenza  tra  Caffè  ginseng  e    Orzo? & 4\\  \hline 
+ Mi  fai  un  confronto  tra  Qualità  rossa  e    Ricco? & 4\\  \hline 
+ Mi  fai  un  confronto  tra  Selva  Alta  e    tierra? & 4\\  \hline 
+ Mi  fai  un  confronto  tra  Cereja  Passita  e    Magia? & 4\\  \hline 
+ Mi  fai  un  confronto  tra  Aromatico  e    Soave? & 4\\  \hline 
+ Mi  fai  un  confronto  tra  Ricco  e    Intenso? & 4\\  \hline 
+ Mi  fai  un  confronto  tra  tierra  e    Deck  Cremoso? & 4\\  \hline 
+ Mi  fai  un  confronto  tra  Magia  e    Delizioso? & 4\\  \hline 
+ Mi  fai  un  confronto  tra  Delizioso  e    tierra? & 4\\  \hline 
+ Mi  fai  un  confronto  tra  Soave  e    dolce? & 4\\  \hline 
+ Mi  fai  un  confronto  tra  Intenso  e    Caffè  ginseng? & 4\\  \hline 
+ Mi  fai  un  confronto  tra  Deck  Cremoso  e    Passionale? & 4\\  \hline 
+ Mi  fai  un  confronto  tra  Delizioso  e    Aromatico? & 4\\  \hline 
+ Mi  fai  un  confronto  tra  Divino  e    Cereja  Passita? & 4\\  \hline 
+ Mi  fai  un  confronto  tra  dolce  e    Selva  Alta? & 4\\  \hline 
+ Mi  fai  un  confronto  tra  Caffè  ginseng  e    Qualità  rossa? & 4\\  \hline 
+ Costano  di  più  le  capsule  tierra  oppure  le  capsule  Deck  Cremoso? & 12\\  \hline 
+ Costano  di  più  le  capsule  Magia  oppure  le  capsule  Delizioso? & 12\\  \hline 
+ Costano  di  più  le  capsule  Passionale  oppure  le  capsule  Divino? & 12\\  \hline 
+ Costano  di  più  le  capsule  Soave  oppure  le  capsule  dolce? & 12\\  \hline 
+ Costano  di  più  le  capsule  Intenso  oppure  le  capsule  Caffè  ginseng? & 12\\  \hline 
+ Costano  di  più  le  capsule  Deck  Cremoso  oppure  le  capsule  Orzo? & 12\\  \hline 
+ Costano  di  più  le  capsule  Delizioso  oppure  le  capsule  Qualità  rossa? & 12\\  \hline 
+ Costano  di  più  le  capsule  Divino  oppure  le  capsule  Selva  Alta? & 12\\  \hline 
+ Costano  di  più  le  capsule  dolce  oppure  le  capsule  Cereja  Passita? & 12\\  \hline 
+ Costano  di  più  le  capsule  Caffè  ginseng  oppure  le  capsule  Aromatico? & 12\\  \hline 
+ Costano  di  più  le  capsule  Orzo  oppure  le  capsule  Ricco? & 12\\  \hline 
+ Costano  di  più  le  capsule  Ricco  oppure  le  capsule  tierra? & 12\\  \hline 
+ Costano  di  più  le  capsule  tierra  oppure  le  capsule  Magia? & 12\\  \hline 
+ Costano  di  più  le  capsule  Magia  oppure  le  capsule  Passionale? & 12\\  \hline 
+ Quali  sono  le  capsule  che  costano  meno  di  10  euro  ? & 1\\  \hline 
+ Quali  sono  le  capsule  che  costano  meno  di  20  euro  ? & 1\\  \hline 
+ Quali  sono  le  capsule  che  costano  meno  di  9  euro  ? & 1\\  \hline 
+ Quali  sono  le  capsule  che  costano  meno  di  8  euro  ? & 1\\  \hline 
+ Quali  sono  le  capsule  che  costano  meno  di  7  euro  ? & 1\\  \hline 
+ Quali  sono  le  capsule  che  costano  meno  di  6  euro  ? & 1\\  \hline 
+ Quali  sono  le  capsule  che  costano  meno  di  5  euro  ? & 1\\  \hline 
+ Quali  sono  le  capsule  che  costano  meno  di  1  euro  ? & 1\\  \hline 
+ Quali  sono  le  capsule  che  costano  meno  di  2  euro  ? & 1\\  \hline 
+ Quali  sono  le  capsule  che  costano  meno  di  4  euro  ? & 1\\  \hline 
+ Quali  sono  le  capsule  che  costano  meno  di  10  dollari? & 1\\  \hline 
+ Quali  sono  le  capsule  che  costano  meno  di  20  dollari? & 1\\  \hline 
+ Quali  sono  le  capsule  che  costano  meno  di  9  dollari? & 1\\  \hline 
+ Quali  sono  le  capsule  che  costano  meno  di  8  dollari? & 1\\  \hline 
+ Quali  sono  le  capsule  che  costano  meno  di  7  dollari? & 1\\  \hline 
+ Quali  sono  le  capsule  che  costano  meno  di  6  dollari? & 1\\  \hline 
+ Quali  sono  le  capsule  che  costano  meno  di  5  dollari? & 1\\  \hline 
+ Quali  sono  le  capsule  che  costano  meno  di  1  dollari? & 1\\  \hline 
+ Quali  sono  le  capsule  che  costano  meno  di  2  dollari? & 1\\  \hline 
+ Quali  sono  le  capsule  che  costano  meno  di  4  dollari? & 1\\  \hline 
+ Quali  sono  le  capsule  con  tostatura  media? & 1\\  \hline 
+ Quali  sono  le  capsule  con  tostatura  scura? & 1\\  \hline 
+ Quali  sono  le  cialde  con  composizione  arabica? & 1\\  \hline 
+ Le  capsule  sono  tutte  di  caffè  macinato  monodose? & 6\\  \hline 
+ Quali  sono  le  capsule  novità? & 1\\  \hline 
+ Quali  sono  le  capsue  più  vendute? & 1\\  \hline 
+ Quali  sono  le  capsule  storiche? & 1\\  \hline 
+ Le  capsule  sono  tutte  disponibili  o  alcune  devono  arrivare? & 6\\  \hline 
+ Mi  dai  qualche  informazione  sulle  capsule  Qualità  rossa? & 11\\  \hline 
+ Mi  dai  qualche  informazione  sulle  capsule  Selva  Alta? & 11\\  \hline 
+ Mi  dai  qualche  informazione  sulle  capsule  Cereja  Passita? & 11\\  \hline 
+ Mi  dai  qualche  informazione  sulle  capsule  Aromatico? & 11\\  \hline 
+ Mi  dai  qualche  informazione  sulle  capsule  Ricco? & 11\\  \hline 
+ Mi  dai  qualche  informazione  sulle  capsule  tierra? & 11\\  \hline 
+ Mi  dai  qualche  informazione  sulle  capsule  Magia? & 11\\  \hline 
+ Mi  dai  qualche  informazione  sulle  capsule  Passionale? & 11\\  \hline 
+ Mi  dai  qualche  informazione  sulle  capsule  Soave? & 11\\  \hline 
+ Mi  dai  qualche  informazione  sulle  capsule  Intenso? & 11\\  \hline 
+ Mi  dai  qualche  informazione  sulle  capsule  Deck  Cremoso? & 11\\  \hline 
+ Mi  dai  qualche  informazione  sulle  capsule  Delizioso? & 11\\  \hline 
+ Mi  dai  qualche  informazione  sulle  capsule  Divino? & 11\\  \hline 
+ Mi  dai  qualche  informazione  sulle  capsule  dolce? & 11\\  \hline 
+ Mi  dai  qualche  informazione  sulle  capsule  Caffè  ginseng? & 11\\  \hline 
+ Mi  dai  qualche  informazione  sulle  capsule  Orzo? & 11\\  \hline 
+ Avete  Qualità  rossa? & 1\\  \hline 
+ Avete  Selva  Alta? & 1\\  \hline 
+ Avete  Cereja  Passita? & 1\\  \hline 
+ Avete  Aromatico? & 1\\  \hline 
+ Avete  Ricco? & 1\\  \hline 
+ Avete  tierra? & 1\\  \hline 
+ Avete  Magia? & 1\\  \hline 
+ Avete  Passionale? & 1\\  \hline 
+ Avete  Soave? & 1\\  \hline 
+ Avete  Intenso? & 1\\  \hline 
+ Avete  Deck  Cremoso? & 1\\  \hline 
+ Avete  Delizioso? & 1\\  \hline 
+ Avete  Divino? & 1\\  \hline 
+ Avete  dolce? & 1\\  \hline 
+ Avete  Caffè  ginseng? & 1\\  \hline 
+ Avete  Orzo? & 1\\  \hline 
+ Quali  sono  le  capsule  con  la  tostatura  più  alta? & 3\\  \hline 
+ Quali  sono  le  capsule  con  la  tostatura  media? & 1\\  \hline 
+ Avete  capsule  con  composizione  diversa  dall'arabica? & 1\\  \hline 
+ Avete  capsule  non  a  tostatura  scura? & 1\\  \hline 
+ Le  capsule  Qualità  rossa  possono  essere  inserite  in  tutte  le  macchine? & 10\\  \hline 
+ Le  capsule  Selva  Alta  possono  essere  inserite  in  tutte  le  macchine? & 10\\  \hline 
+ Le  capsule  Cereja  Passita  possono  essere  inserite  in  tutte  le  macchine? & 10\\  \hline 
+ Le  capsule  Aromatico  possono  essere  inserite  in  tutte  le  macchine? & 10\\  \hline 
+ Le  capsule  Ricco  possono  essere  inserite  in  tutte  le  macchine? & 10\\  \hline 
+ Le  capsule  tierra  possono  essere  inserite  in  tutte  le  macchine? & 10\\  \hline 
+ Le  capsule  lavazza  Magia  possono  essere  inserite  in  tutte  le  macchine? & 10\\  \hline 
+ Le  capsule  Passionale  possono  essere  inserite  in  tutte  le  macchine? & 10\\  \hline 
+ Le  capsule  Soave  possono  essere  inserite  in  tutte  le  macchine? & 10\\  \hline 
+ Le  capsule  lavazza  Intenso  possono  essere  inserite  in  tutte  le  macchine? & 10\\  \hline 
+ Le  capsule  Deck  Cremoso  possono  essere  inserite  in  tutte  le  macchine? & 10\\  \hline 
+ Le  capsule  Delizioso  possono  essere  inserite  in  tutte  le  macchine? & 10\\  \hline 
+ Le  capsule  Divino  possono  essere  inserite  in  tutte  le  macchine? & 10\\  \hline 
+ Le  capsule  dolce  possono  essere  inserite  in  tutte  le  macchine? & 10\\  \hline 
+ Le  capsule  Caffè  ginseng  possono  essere  inserite  in  tutte  le  macchine? & 10\\  \hline 
+ Le  capsule  Orzo  possono  essere  inserite  in  tutte  le  macchine? & 10\\  \hline 
+ La  capsula  Qualità  rossa  può  essere  inserita  in  Jolie? & 10\\  \hline 
+ La  capsula  Selva  Alta  può  essere  inserita  in  Magia? & 10\\  \hline 
+ La  capsula  Cereja  Passita  può  essere  inserita  in  Lavazza  minù? & 10\\  \hline 
+ La  capsula  Aromatico  può  essere  inserita  in  Fantasia  Plus? & 10\\  \hline 
+ La  capsula  Ricco  può  essere  inserita  in  Magia  Plus? & 10\\  \hline 
+ La  capsula  tierra  può  essere  inserita  in  Fantasia  Plus? & 10\\  \hline 
+ La  capsula  lavazza  Magia  può  essere  inserita  in  Magia  Plus? & 10\\  \hline 
+ La  capsula  Passionale  può  essere  inserita  in  Minù  caffè  latte? & 10\\  \hline 
+ La  capsula  Soave  può  essere  inserita  in  Espria  Plus? & 10\\  \hline 
+ La  capsula  lavazza  Intenso  può  essere  inserita  in  Jolie? & 10\\  \hline 
+ La  capsula  Deck  Cremoso  può  essere  inserita  in  Magia? & 10\\  \hline 
+ La  capsula  Delizioso  può  essere  inserita  in  Lavazza  minù? & 10\\  \hline 
+ La  capsula  Divino  può  essere  inserita  in  Fantasia  Plus? & 10\\  \hline 
+ La  capsula  dolce  può  essere  inserita  in  Magia  Plus? & 10\\  \hline 
+ La  capsula  Caffè  ginseng  può  essere  inserita  in  Fantasia  Plus? & 10\\  \hline 
+ La  capsula  Orzo  può  essere  inserita  in  Magia  Plus? & 10\\  \hline 
+ Quanto  costa  la  macchina  da  caffè  Jolie  più  un  set  di  capsule  Qualità  rossa? & 13\\  \hline 
+ Quanto  costa  la  macchina  da  caffè  Milkup  più  un  set  di  capsule  Selva  Alta? & 13\\  \hline 
+ Quanto  costa  la  macchina  da  caffè  Lavazza  minù  più  un  set  di  capsule  Cereja  Passita? & 13\\  \hline 
+ Quanto  costa  la  macchina  da  caffè  Fantasia  Plus  più  un  set  di  capsule  Aromatico? & 13\\  \hline 
+ Quanto  costa  la  macchina  da  caffè  Magia  Plus  più  un  set  di  capsule  Ricco? & 13\\  \hline 
+ Quanto  costa  la  macchina  da  caffè  Fantasia  Plus  più  un  set  di  capsule  tierra? & 13\\  \hline 
+ Quanto  costa  la  macchina  da  caffè  Magia  Plus  più  un  set  di  capsule  Magia? & 13\\  \hline 
+ Quanto  costa  la  macchina  da  caffè  Minù  caffè  latte  più  un  set  di  capsule  Passionale? & 13\\  \hline 
+ Quanto  costa  la  macchina  da  caffè  Espria  Plus  più  un  set  di  capsule  Soave? & 13\\  \hline 
+ Quanto  costa  la  macchina  da  caffè  Jolie  più  un  set  di  capsule  Intenso? & 13\\  \hline 
+ Quanto  costa  la  macchina  da  caffè  Milkup  più  un  set  di  capsule  Deck  Cremoso? & 13\\  \hline 
+ Quanto  costa  la  macchina  da  caffè  Lavazza  minù  più  un  set  di  capsule  Delizioso? & 13\\  \hline 
+ Quanto  costa  la  macchina  da  caffè  Fantasia  Plus  più  un  set  di  capsule  Divino? & 13\\  \hline 
+ Quanto  costa  la  macchina  da  caffè  Magia  Plus  più  un  set  di  capsule  dolce? & 13\\  \hline 
+ Quanto  costa  la  macchina  da  caffè  Fantasia  Plus  più  un  set  di  capsule  Caffè  ginseng? & 13\\  \hline 
+ Quanto  costa  la  macchina  da  caffè  Magia  Plus  più  un  set  di  capsule  Orzo? & 13\\  \hline 
+ Cosa  costa  meno  tra  Orzo,  Divino  e  Magia? & 12\\  \hline 
+ Cosa  costa  meno  tra  Qualità  rossa,  dolce  e  Passionale & 12\\  \hline 
+ Cosa  costa  meno  tra  Selva  Alta,  Caffè  ginseng  e  Soave & 12\\  \hline 
+ Cosa  costa  meno  tra  Cereja  Passita,  Orzo  e  Intenso & 12\\  \hline 
+ Cosa  costa  meno  tra  Aromatico,  Qualità  rossa  e  Deck  Cremoso & 12\\  \hline 
+ Cosa  costa  meno  tra  Ricco,  Selva  Alta  e  Delizioso & 12\\  \hline 
+ Cosa  costa  meno  tra  tierra,  Cereja  Passita  e  Divino & 12\\  \hline 
+ Cosa  costa  meno  tra  Magia,  Aromatico  e  dolce & 12\\  \hline 
+ Cosa  costa  meno  tra  Passionale,  Ricco  e  Caffè  ginseng & 12\\  \hline 
+ Cosa  costa  meno  tra  Soave,  tierra  e  Orzo & 12\\  \hline 
+ Cosa  costa  meno  tra  Intenso,  Magia  e  Qualità  rossa & 12\\  \hline 
+ Cosa  costa  meno  tra  Deck  Cremoso,  Passionale  e  Selva  Alta & 12\\  \hline 
+ Cosa  costa  meno  tra  Delizioso,  Soave  e  Cereja  Passita & 12\\  \hline 
+ Cosa  costa  meno  tra  Divino,  Intenso  e  Aromatico & 12\\  \hline 
+ Cosa  costa  meno  tra  dolce,  Deck  Cremoso  e  Ricco & 12\\  \hline 
+ Cosa  costa  meno  tra  Caffè  ginseng,  Delizioso  e  tierra & 12\\  \hline 
+ Posso  utilizzare  le  capsule  Orzo  su  altre  macchine  non  Lavazza? & 10\\  \hline 
+ Posso  utilizzare  le  capsule  Qualità  rossa  su  altre  macchine  non  Lavazza? & 10\\  \hline 
+ Posso  utilizzare  le  capsule  Selva  Alta  su  altre  macchine  non  Lavazza? & 10\\  \hline 
+ Posso  utilizzare  le  capsule  Cereja  Passita  su  altre  macchine  non  Lavazza? & 10\\  \hline 
+ Posso  utilizzare  le  capsule  Aromatico  su  altre  macchine  non  Lavazza? & 10\\  \hline 
+ Posso  utilizzare  le  capsule  Ricco  su  altre  macchine  non  Lavazza? & 10\\  \hline 
+ Posso  utilizzare  le  capsule  tierra  su  altre  macchine  non  Lavazza? & 10\\  \hline 
+ Posso  utilizzare  le  capsule  Magia  su  altre  macchine  non  Lavazza? & 10\\  \hline 
+ Posso  utilizzare  le  capsule  Passionale  su  altre  macchine  non  Lavazza? & 10\\  \hline 
+ Posso  utilizzare  le  capsule  Soave  su  altre  macchine  non  Lavazza? & 10\\  \hline 
+ Posso  utilizzare  le  capsule  Intenso  su  altre  macchine  non  Lavazza? & 10\\  \hline 
+ Posso  utilizzare  le  capsule  Deck  Cremoso  su  altre  macchine  non  Lavazza? & 10\\  \hline 
+ Posso  utilizzare  le  capsule  Delizioso  su  altre  macchine  non  Lavazza? & 10\\  \hline 
+ Posso  utilizzare  le  capsule  Divino  su  altre  macchine  non  Lavazza? & 10\\  \hline 
+ Posso  utilizzare  le  capsule  dolce  su  altre  macchine  non  Lavazza? & 10\\  \hline 
+ Posso  utilizzare  le  capsule  Caffè  ginseng  su  altre  macchine  non  Lavazza? & 10\\  \hline 
+ Quali  sono  le  capsule  più  economiche  tra  quelle  con  la  tostatura  scura? & 1\\  \hline 
+ Quali  sono  le  capsule  più  economiche  tra  quelle  con  la  composizione  arabica? & 1\\  \hline 
+ Mi  dici  le  3  capsule  più  economiche? & 13\\  \hline 
+ Quali  sono  le  capsule  meno  economiche? & 1\\  \hline 
+ Dove  posso  acquistare  le  capsule  Orzo? & 8\\  \hline 
+ Dove  posso  acquistare  le  capsule  Qualità  rossa? & 8\\  \hline 
+ Dove  posso  acquistare  le  capsule  Selva  Alta? & 8\\  \hline 
+ Dove  posso  acquistare  le  capsule  Cereja  Passita? & 8\\  \hline 
+ Dove  posso  acquistare  le  capsule  Aromatico? & 8\\  \hline 
+ Dove  posso  acquistare  le  capsule  Ricco? & 8\\  \hline 
+ Dove  posso  acquistare  le  capsule  tierra? & 8\\  \hline 
+ Dove  posso  acquistare  le  capsule  Magia? & 8\\  \hline 
+ Dove  posso  acquistare  le  capsule  Passionale? & 8\\  \hline 
+ Dove  posso  acquistare  le  capsule  Soave? & 8\\  \hline 
+ Dove  posso  acquistare  le  capsule  Intenso? & 8\\  \hline 
+ Dove  posso  acquistare  le  capsule  Deck  Cremoso? & 8\\  \hline 
+ Dove  posso  acquistare  le  capsule  Delizioso? & 8\\  \hline 
+ Dove  posso  acquistare  le  capsule  Divino? & 8\\  \hline 
+ Dove  posso  acquistare  le  capsule  dolce? & 8\\  \hline 
+ Dove  posso  acquistare  le  capsule  Caffè  ginseng? & 8\\  \hline 
+ Le  capsule  Orzo  sono  compostabili? & 1\\  \hline 
+ Le  capsule  Qualità  rossa  sono  compostabili? & 1\\  \hline 
+ Le  capsule  Selva  Alta  sono  compostabili? & 1\\  \hline 
+ Le  capsule  Cereja  Passita  sono  compostabili? & 1\\  \hline 
+ Le  capsule  Aromatico  sono  compostabili? & 1\\  \hline 
+ Le  capsule  Ricco  sono  compostabili? & 1\\  \hline 
+ Le  capsule  tierra  sono  compostabili? & 1\\  \hline 
+ Le  capsule  Magia  sono  compostabili? & 1\\  \hline 
+ Le  capsule  Passionale  sono  compostabili? & 1\\  \hline 
+ Le  capsule  Soave  sono  compostabili? & 1\\  \hline 
+ Le  capsule  Intenso  sono  compostabili? & 1\\  \hline 
+ Le  capsule  Deck  Cremoso  sono  compostabili? & 1\\  \hline 
+ Le  capsule  Delizioso  sono  compostabili? & 1\\  \hline 
+ Le  capsule  Divino  sono  compostabili? & 1\\  \hline 
+ Le  capsule  dolce  sono  compostabili? & 1\\  \hline 
+ Le  capsule  Caffè  ginseng  sono  compostabili? & 1\\  \hline 
+ Quante  capsule  posso  ordinare  al  massimo? & 5\\  \hline 
+ Accettate  carta  di  credito  per  pagare? & 5\\  \hline 
+ Se  ordino  oggi  quando  arrivano? & 5\\  \hline 
+ Può  capitare  che  la  capsula  Orzo  richieda  maggior  pressione  sulla  leva  della  macchina  da  caffè? & 6\\  \hline 
+ Può  capitare  che  la  capsula  Qualità  rossa  richieda  maggior  pressione  sulla  leva  della  macchina  da  caffè? & 6\\  \hline 
+ Può  capitare  che  la  capsula  Selva  Alta  richieda  maggior  pressione  sulla  leva  della  macchina  da  caffè? & 6\\  \hline 
+ Può  capitare  che  la  capsula  Cereja  Passita  richieda  maggior  pressione  sulla  leva  della  macchina  da  caffè? & 6\\  \hline 
+ Può  capitare  che  la  capsula  Aromatico  richieda  maggior  pressione  sulla  leva  della  macchina  da  caffè? & 6\\  \hline 
+ Può  capitare  che  la  capsula  Ricco  richieda  maggior  pressione  sulla  leva  della  macchina  da  caffè? & 6\\  \hline 
+ Può  capitare  che  la  capsula  tierra  richieda  maggior  pressione  sulla  leva  della  macchina  da  caffè? & 6\\  \hline 
+ Può  capitare  che  la  capsula  Magia  richieda  maggior  pressione  sulla  leva  della  macchina  da  caffè? & 6\\  \hline 
+ Può  capitare  che  la  capsula  Passionale  richieda  maggior  pressione  sulla  leva  della  macchina  da  caffè? & 6\\  \hline 
+ Può  capitare  che  la  capsula  Soave  richieda  maggior  pressione  sulla  leva  della  macchina  da  caffè? & 6\\  \hline 
+ Può  capitare  che  la  capsula  Intenso  richieda  maggior  pressione  sulla  leva  della  macchina  da  caffè? & 6\\  \hline 
+ Può  capitare  che  la  capsula  Deck  Cremoso  richieda  maggior  pressione  sulla  leva  della  macchina  da  caffè? & 6\\  \hline 
+ Può  capitare  che  la  capsula  Delizioso  richieda  maggior  pressione  sulla  leva  della  macchina  da  caffè? & 6\\  \hline 
+ Può  capitare  che  la  capsula  Divino  richieda  maggior  pressione  sulla  leva  della  macchina  da  caffè? & 6\\  \hline 
+ Può  capitare  che  la  capsula  dolce  richieda  maggior  pressione  sulla  leva  della  macchina  da  caffè? & 6\\  \hline 
+ Può  capitare  che  la  capsula  Caffè  ginseng  richieda  maggior  pressione  sulla  leva  della  macchina  da  caffè? & 6\\  \hline 
+ La  macchina  Milkup  è  facilmente  lavabile? & 7\\  \hline 
+ La  macchina  Lavazza  minù  è  facilmente  lavabile? & 7\\  \hline 
+ La  macchina  Fantasia  Plus  è  facilmente  lavabile? & 7\\  \hline 
+ La  macchina  Magia  Plus  è  facilmente  lavabile? & 7\\  \hline 
+ La  macchina  Fantasia  Plus  è  facilmente  lavabile? & 7\\  \hline 
+ La  macchina  Magia  Plus  è  facilmente  lavabile? & 7\\  \hline 
+ La  macchina  Minù  caffè  latte  è  facilmente  lavabile? & 7\\  \hline 
+ La  macchina  Espria  Plus  è  facilmente  lavabile? & 7\\  \hline 
+ La  macchina  Jolie  è  facilmente  lavabile? & 7\\  \hline 
+ Le  macchine  sono  costruite  in  Italia? & 7\\  \hline 
+ Quant'è  la  garanzia  delle  macchine  da  caffè? & 2\\  \hline 
+ Quanto  dura  una  scatola  di  capsule? & 6\\  \hline 
+ Quali  ingredienti  vi  sono  all'interno  delle  capsule  da  caffè? & 7\\  \hline 
+ Vi  sono  conservanti  all'interno  delle  capsule  da  caffè? & 7\\  \hline 
+ C'è  l'olio  di  palma  all'interno  delle  macchine? & 7\\  \hline 
+ Mi  si  è  rotta  la  macchina  da  caffè  Milkup  dove  posso  portarla  a  riparare? & 7\\  \hline 
+ Mi  si  è  rotta  la  macchina  da  caffè  Lavazza  minù  dove  posso  portarla  a  riparare? & 7\\  \hline 
+ Mi  si  è  rotta  la  macchina  da  caffè  Fantasia  Plus  dove  posso  portarla  a  riparare? & 7\\  \hline 
+ Mi  si  è  rotta  la  macchina  da  caffè  Magia  Plus  dove  posso  portarla  a  riparare? & 7\\  \hline 
+ Mi  si  è  rotta  la  macchina  da  caffè  Fantasia  Plus  dove  posso  portarla  a  riparare? & 7\\  \hline 
+ Mi  si  è  rotta  la  macchina  da  caffè  Magia  Plus  dove  posso  portarla  a  riparare? & 7\\  \hline 
+ Mi  si  è  rotta  la  macchina  da  caffè  Minù  caffè  latte  dove  posso  portarla  a  riparare? & 7\\  \hline 
+ Mi  si  è  rotta  la  macchina  da  caffè  Espria  Plus  dove  posso  portarla  a  riparare? & 7\\  \hline 
+ Mi  si  è  rotta  la  macchina  da  caffè  Jolie  dove  posso  portarla  a  riparare? & 7\\  \hline 
+ Le  capsule  Orzo  possono  essere  acquistate  su  internet? & 5\\  \hline 
+ Le  capsule  Qualità  rossa  possono  essere  acquistate  su  internet? & 5\\  \hline 
+ Le  capsule  Selva  Alta  possono  essere  acquistate  su  internet? & 5\\  \hline 
+ Le  capsule  Cereja  Passita  possono  essere  acquistate  su  internet? & 5\\  \hline 
+ Le  capsule  Aromatico  possono  essere  acquistate  su  internet? & 5\\  \hline 
+ Le  capsule  Ricco  possono  essere  acquistate  su  internet? & 5\\  \hline 
+ Le  capsule  tierra  possono  essere  acquistate  su  internet? & 5\\  \hline 
+ Le  capsule  Magia  possono  essere  acquistate  su  internet? & 5\\  \hline 
+ Le  capsule  Passionale  possono  essere  acquistate  su  internet? & 5\\  \hline 
+ Le  capsule  Soave  possono  essere  acquistate  su  internet? & 5\\  \hline 
+ Le  capsule  Intenso  possono  essere  acquistate  su  internet? & 5\\  \hline 
+ Le  capsule  Deck  Cremoso  possono  essere  acquistate  su  internet? & 5\\  \hline 
+ Le  capsule  Delizioso  possono  essere  acquistate  su  internet? & 5\\  \hline 
+ Le  capsule  Divino  possono  essere  acquistate  su  internet? & 5\\  \hline 
+ Le  capsule  dolce  possono  essere  acquistate  su  internet? & 5\\  \hline 
+ Le  capsule  Caffè  ginseng  possono  essere  acquistate  su  internet? & 5\\  \hline 
+ Quali  sono  le  capsule  consigliate? & 1\\  \hline 
+ Quali  capsule  mi  consigli? & 1\\  \hline 
+ Dove  posso  buttare  l'involucro  delle  capsule? & 7\\  \hline 
+ Le  capsule  si  possono  buttare  nell'organico? & 7\\  \hline 
+ Qual'è  il  numero  minimo  di  capsule  che  ssi  può  ordinare? & 5\\  \hline 
+ Quanto  costano  3  set  di  capsule  Orzo? & 13\\  \hline 
+ Quanto  costano  2  set  di  capsule  Qualità  rossa? & 13\\  \hline 
+ Quanto  costano  1  set  di  capsule  Selva  Alta? & 13\\  \hline 
+ Quanto  costano  4  set  di  capsule  Cereja  Passita? & 13\\  \hline 
+ Quanto  costano  3  set  di  capsule  Aromatico? & 13\\  \hline 
+ Quanto  costano  2  set  di  capsule  Ricco? & 13\\  \hline 
+ Quanto  costano  1  set  di  capsule  tierra? & 13\\  \hline 
+ Quanto  costano  4  set  di  capsule  Magia? & 13\\  \hline 
+ Quanto  costano  3  set  di  capsule  Passionale? & 13\\  \hline 
+ Quanto  costano  2  set  di  capsule  Soave? & 13\\  \hline 
+ Quanto  costano  1  set  di  capsule  Intenso? & 13\\  \hline 
+ Quanto  costano  4  set  di  capsule  Deck  Cremoso? & 13\\  \hline 
+ Quanto  costano  3  set  di  capsule  Delizioso? & 13\\  \hline 
+ Quanto  costano  2  set  di  capsule  Divino? & 13\\  \hline 
+ Quanto  costano  1  set  di  capsule  dolce? & 13\\  \hline 
+ Quanto  costano  4  set  di  capsule  Caffè  ginseng? & 13\\  \hline 
+ Che  differenza  c'è  tra  le  Cialde  e  le  Capsule? & 4\\  \hline 
+ Quali  sono  i  sistemi  principali  sul  mercato  delle  Cialde  e  delle  Capsule  di  caffè? & 6\\  \hline 
+ Cosa  significa  la  frase  "100%  Arabica"? & 6\\  \hline 
+ Che  differenza  c'è  tra  i  vari  sistemi  a  Capsule  e  Cialde?  Quale  dovrei  scegliere? & 6\\  \hline 
+ Le  Capsule  e  le  Cialde  di  caffè  come  vanno  smaltite  una  volta  usate? & 7\\  \hline 
+ Come  posso  acquistare  i  prodotti  Lavazza? & 5\\  \hline 
+ Dove  si  trova  lo  stabilimento  della  Lavazza? & 8\\  \hline 
+ Dove  producete  le  capsule  Orzo? & 7\\  \hline 
+ Dove  producete  le  capsule  Qualità  rossa? & 7\\  \hline 
+ Dove  producete  le  capsule  Selva  Alta? & 7\\  \hline 
+ Dove  producete  le  capsule  Cereja  Passita? & 7\\  \hline 
+ Dove  producete  le  capsule  Aromatico? & 7\\  \hline 
+ Dove  producete  le  capsule  Ricco? & 7\\  \hline 
+ Dove  producete  le  capsule  tierra? & 7\\  \hline 
+ Dove  producete  le  capsule  Magia? & 7\\  \hline 
+ Dove  producete  le  capsule  Passionale? & 7\\  \hline 
+ Dove  producete  le  capsule  Soave? & 7\\  \hline 
+ Dove  producete  le  capsule  Intenso? & 7\\  \hline 
+ Dove  producete  le  capsule  Deck  Cremoso? & 7\\  \hline 
+ Dove  producete  le  capsule  Delizioso? & 7\\  \hline 
+ Dove  producete  le  capsule  Divino? & 7\\  \hline 
+ Dove  producete  le  capsule  dolce? & 7\\  \hline 
+ Dove  producete  le  capsule  Caffè  ginseng? & 7\\  \hline 
+ Ho  un  problema  con  la  macchina  Milkup  a  chi  posso  rivolgermi? & 7\\  \hline 
+ Ho  un  problema  con  la  macchina  Lavazza  minù  a  chi  posso  rivolgermi? & 7\\  \hline 
+ Ho  un  problema  con  la  macchina  Fantasia  Plus  a  chi  posso  rivolgermi? & 7\\  \hline 
+ Ho  un  problema  con  la  macchina  Magia  Plus  a  chi  posso  rivolgermi? & 7\\  \hline 
+ Ho  un  problema  con  la  macchina  Fantasia  Plus  a  chi  posso  rivolgermi? & 7\\  \hline 
+ Ho  un  problema  con  la  macchina  Magia  Plus  a  chi  posso  rivolgermi? & 7\\  \hline 
+ Ho  un  problema  con  la  macchina  Minù  caffè  latte  a  chi  posso  rivolgermi? & 7\\  \hline 
+ Ho  un  problema  con  la  macchina  Espria  Plus  a  chi  posso  rivolgermi? & 7\\  \hline 
+ Ho  un  problema  con  la  macchina  Jolie  a  chi  posso  rivolgermi? & 7\\  \hline 
+ Posso  ordinare  i  ricambi  per  la  mia  macchina  da  caffè  Milkup? & 1\\  \hline 
+ Posso  ordinare  i  ricambi  per  la  mia  macchina  da  caffè  Lavazza  minù? & 1\\  \hline 
+ Posso  ordinare  i  ricambi  per  la  mia  macchina  da  caffè  Fantasia  Plus? & 1\\  \hline 
+ Posso  ordinare  i  ricambi  per  la  mia  macchina  da  caffè  Magia  Plus? & 1\\  \hline 
+ Posso  ordinare  i  ricambi  per  la  mia  macchina  da  caffè  Fantasia  Plus? & 1\\  \hline 
+ Posso  ordinare  i  ricambi  per  la  mia  macchina  da  caffè  Magia  Plus? & 1\\  \hline 
+ Posso  ordinare  i  ricambi  per  la  mia  macchina  da  caffè  Minù  caffè  latte? & 1\\  \hline 
+ Posso  ordinare  i  ricambi  per  la  mia  macchina  da  caffè  Espria  Plus? & 1\\  \hline 
+ Posso  ordinare  i  ricambi  per  la  mia  macchina  da  caffè  Jolie? & 1\\  \hline 
+ Esistono  capsule  o  cialde  compatibili  con  la  macchinetta  Caffitaly? & 10\\  \hline 
+ E'  possibile  pagare  con  carta  di  credito? & 5\\  \hline 
+ E'  possibile  pagare  con  bonifico  bancario? & 5\\  \hline 
+ Come  è  possibile  pagare? & 5\\  \hline 
+ E'  possibile  pagare  la  merce  al  momento  della  consegna? & 5\\  \hline 
+ Quanto  costa  la  spedizione? & 5\\  \hline 
+ Effettuate  la  consegna  delle  capsule  anche  a  Pozzuoli? & 5\\  \hline 
+ Effettuate  la  consegna  delle  capsule  anche  a  San  Severino  di  Centola? & 5\\  \hline 
+ Effettuate  la  consegna  delle  capsule  anche  a  Melito  Irpino  in  provincia  di  Avellino? & 5\\  \hline 
+ Effettuate  la  consegna  delle  capsule  anche  a  Cavallerizzo? & 5\\  \hline 
+ Effettuate  la  consegna  delle  capsule  anche  a  Pentedattilo? & 5\\  \hline 
+ Effettuate  la  consegna  delle  capsule  anche  a  Laino  Castello? & 5\\  \hline 
+ Effettuate  la  consegna  delle  capsule  anche  a  Alianello  Vecchio? & 5\\  \hline 
+ Le  capsule  vanno  conservate  in  frigo? & 7\\  \hline 
+ A  quale  temperatura  vanno  conservate  le  capsule? & 7\\  \hline 
+ Che  quantità  di  caffè  si  trova  nelle  capsule? & 7\\  \hline 
+ Di  cosa  è  fatto  l'involucro  delle  capsule? & 7\\  \hline 
+ Sono  meglio  le  capsule  o  il  caffè  in  grani? & 6\\  \hline 
+ Devo  registrarmi  per  poter  acquistare? & 9\\  \hline 
+ esiste  un  minimo  d'ordine? & 5\\  \hline 
+ Posso  effettuare  un  ordine  di  100  capsule  miste? & 6\\  \hline 
+ quanto  devo  acquistare  per  non  pagare  la  spedizione? & 6\\  \hline 
+ Se  acquisto  più  capsule  ho  diritto  ad  uno  sconto? & 6\\  \hline 
+ Quanti  tipi  di  pagamento  posso  utilizzare? & 5\\  \hline 
+ Posso  avere  la  fattura? & 5\\  \hline 
+ E'  possibile  effettuare  un  ordine  telefonico? & 5\\  \hline 
+ E'  possibile  ricevere  una  campionatura  dei  vostri  prodotti? & 6\\  \hline 
+ Cosa  mi  consigli  di  acquistare  tra  le  capsule  Orzo  e  tierra? & 4\\  \hline 
+ Cosa  mi  consigli  di  acquistare  tra  le  capsule  Qualità  rossa  e  dolce? & 4\\  \hline 
+ Cosa  mi  consigli  di  acquistare  tra  le  capsule  Selva  Alta  e  Caffè  ginseng? & 4\\  \hline 
+ Cosa  mi  consigli  di  acquistare  tra  le  capsule  Cereja  Passita  e  Orzo? & 4\\  \hline 
+ Cosa  mi  consigli  di  acquistare  tra  le  capsule  Aromatico  e  Qualità  rossa? & 4\\  \hline 
+ Cosa  mi  consigli  di  acquistare  tra  le  capsule  Ricco  e  Selva  Alta? & 4\\  \hline 
+ Cosa  mi  consigli  di  acquistare  tra  le  capsule  tierra  e  Magia? & 4\\  \hline 
+ Cosa  mi  consigli  di  acquistare  tra  le  capsule  Magia  e  Passionale? & 4\\  \hline 
+ Cosa  mi  consigli  di  acquistare  tra  le  capsule  Passionale  e  Soave? & 4\\  \hline 
+ Cosa  mi  consigli  di  acquistare  tra  le  capsule  Soave  e  Intenso? & 4\\  \hline 
+ Cosa  mi  consigli  di  acquistare  tra  le  capsule  Intenso  e  Deck  Cremoso? & 4\\  \hline 
+ Cosa  mi  consigli  di  acquistare  tra  le  capsule  Deck  Cremoso  e  Delizioso? & 4\\  \hline 
+ Cosa  mi  consigli  di  acquistare  tra  le  capsule  Delizioso  e  Divino? & 4\\  \hline 
+ Cosa  mi  consigli  di  acquistare  tra  le  capsule  Divino  e  Cereja  Passita? & 4\\  \hline 
+ Cosa  mi  consigli  di  acquistare  tra  le  capsule  dolce  e  Aromatico? & 4\\  \hline 
+ Cosa  mi  consigli  di  acquistare  tra  le  capsule  Caffè  ginseng  e  Ricco? & 4\\  \hline 
+ Le  capsule  Orzo  sono  disponibili  anche  all'estero? & 6\\  \hline 
+ Le  capsule  Qualità  rossa  sono  disponibili  anche  all'estero? & 6\\  \hline 
+ Le  capsule  Selva  Alta  sono  disponibili  anche  all'estero? & 6\\  \hline 
+ Le  capsule  Cereja  Passita  sono  disponibili  anche  all'estero? & 6\\  \hline 
+ Le  capsule  Aromatico  sono  disponibili  anche  all'estero? & 6\\  \hline 
+ Le  capsule  Ricco  sono  disponibili  anche  all'estero? & 6\\  \hline 
+ Le  capsule  tierra  sono  disponibili  anche  all'estero? & 6\\  \hline 
+ Le  capsule  Magia  sono  disponibili  anche  all'estero? & 6\\  \hline 
+ Le  capsule  Passionale  sono  disponibili  anche  all'estero? & 6\\  \hline 
+ Le  capsule  Soave  sono  disponibili  anche  all'estero? & 6\\  \hline 
+ Le  capsule  Intenso  sono  disponibili  anche  all'estero? & 6\\  \hline 
+ Le  capsule  Deck  Cremoso  sono  disponibili  anche  all'estero? & 6\\  \hline 
+ Le  capsule  Delizioso  sono  disponibili  anche  all'estero? & 6\\  \hline 
+ Le  capsule  Divino  sono  disponibili  anche  all'estero? & 6\\  \hline 
+ Le  capsule  dolce  sono  disponibili  anche  all'estero? & 6\\  \hline 
+ Le  capsule  Caffè  ginseng  sono  disponibili  anche  all'estero? & 6\\  \hline 
+ Come  si  smaltisono  le  capsule  usate? & 7\\  \hline 
+ Perchè  lampeggia  la  mia  macchina  da  caffè?Lavazza  minù? & 6\\  \hline 
+ Perchè  lampeggia  la  machina  da  caffè  Fantasia  Plus? & 7\\  \hline 
+ Perchè  lampeggia  la  machina  da  caffè  Magia  Plus? & 7\\  \hline 
+ Perchè  lampeggia  la  machina  da  caffè  Fantasia  Plus? & 7\\  \hline 
+ Perchè  lampeggia  la  machina  da  caffè  Magia  Plus? & 7\\  \hline 
+ Perchè  lampeggia  la  machina  da  caffè  Minù  caffè  latte? & 7\\  \hline 
+ Perchè  lampeggia  la  machina  da  caffè  Espria  Plus? & 7\\  \hline 
+ Perchè  lampeggia  la  machina  da  caffè  Jolie? & 7\\  \hline 
+ I  prezzi  sono  comprensivi  di  IVA? & 5\\  \hline 
+ In  che  modo  si  può  fare  l'ordine? & 9\\  \hline 
+ Come  faccio  a  fare  l'ordine  online? & 9\\  \hline 
+ Come  faccio  ad  essere  sicuro  della  buona  riuscita  dell'ordine? & 9\\  \hline 
+ Quando  vengono  evasi  gli  ordini? & 6\\  \hline 
+ Cosa  succede  se  ordino  delle  capsule  non  disponibili? & 6\\  \hline 
+ Si  può  rendere  la  merce? & 7\\  \hline 
+ Si  possono  rendere  una  parte  delle  capsule  ordinate? & 7\\  \hline 
+ come  faccio  a  ricercare  rapidamente  un  prodotto? & 9\\  \hline 
+ E'  possibile  avere  sconti  per  acquisti  multipli? & 6\\  \hline 
+ E'  possibile  effettuare  il  pagmaneto  in  contrassegno? & 5\\  \hline 
+ Quali  sono  le  varietà  di  tostatura  disponibili? & 2\\  \hline 
+ Quali  sono  le  varietà  di  composizioni  disponibili? & 2\\  \hline 
+ Quanto  spazio  occupa  la  macchina  da  caffè  Lavazza  minù? & 2\\  \hline 
+ Quanto  spazio  occupa  la  macchina  da  caffè  Fantasia  Plus? & 2\\  \hline 
+ Quanto  spazio  occupa  la  macchina  da  caffè  Magia  Plus? & 2\\  \hline 
+ Quanto  spazio  occupa  la  macchina  da  caffè  Fantasia  Plus? & 2\\  \hline 
+ Quanto  spazio  occupa  la  macchina  da  caffè  Magia  Plus? & 2\\  \hline 
+ Quanto  spazio  occupa  la  macchina  da  caffè  Minù  caffè  latte? & 2\\  \hline 
+ Quanto  spazio  occupa  la  macchina  da  caffè  Espria  Plus? & 2\\  \hline 
+ Quanto  spazio  occupa  la  macchina  da  caffè  Jolie? & 2\\  \hline 
+ La  confezione  di  capsule  Orzo  era  difettosa,  posso  restituirla? & 7\\  \hline 
+ La  confezione  di  capsule  Qualità  rossa  era  difettosa,  posso  restituirla? & 7\\  \hline 
+ La  confezione  di  capsule  Selva  Alta  era  difettosa,  posso  restituirla? & 7\\  \hline 
+ La  confezione  di  capsule  Cereja  Passita  era  difettosa,  posso  restituirla? & 7\\  \hline 
+ La  confezione  di  capsule  Aromatico  era  difettosa,  posso  restituirla? & 7\\  \hline 
+ La  confezione  di  capsule  Ricco  era  difettosa,  posso  restituirla? & 7\\  \hline 
+ La  confezione  di  capsule  tierra  era  difettosa,  posso  restituirla? & 7\\  \hline 
+ La  confezione  di  capsule  Magia  era  difettosa,  posso  restituirla? & 7\\  \hline 
+ La  confezione  di  capsule  Passionale  era  difettosa,  posso  restituirla? & 7\\  \hline 
+ La  confezione  di  capsule  Soave  era  difettosa,  posso  restituirla? & 7\\  \hline 
+ La  confezione  di  capsule  Intenso  era  difettosa,  posso  restituirla? & 7\\  \hline 
+ La  confezione  di  capsule  Deck  Cremoso  era  difettosa,  posso  restituirla? & 7\\  \hline 
+ La  confezione  di  capsule  Delizioso  era  difettosa,  posso  restituirla? & 7\\  \hline 
+ La  confezione  di  capsule  Divino  era  difettosa,  posso  restituirla? & 7\\  \hline 
+ La  confezione  di  capsule  dolce  era  difettosa,  posso  restituirla? & 7\\  \hline 
+ La  confezione  di  capsule  Caffè  ginseng  era  difettosa,  posso  restituirla? & 7\\  \hline 
+ Potrei  avere  un  pò  di  sconto  sulle  capsule  Orzo? & 1\\  \hline 
+ Potrei  avere  un  pò  di  sconto  sulle  capsule  Qualità  rossa? & 1\\  \hline 
+ Potrei  avere  un  pò  di  sconto  sulle  capsule  Selva  Alta? & 1\\  \hline 
+ Potrei  avere  un  pò  di  sconto  sulle  capsule  Cereja  Passita? & 1\\  \hline 
+ Potrei  avere  un  pò  di  sconto  sulle  capsule  Aromatico? & 1\\  \hline 
+ Potrei  avere  un  pò  di  sconto  sulle  capsule  Ricco? & 1\\  \hline 
+ Potrei  avere  un  pò  di  sconto  sulle  capsule  tierra? & 1\\  \hline 
+ Potrei  avere  un  pò  di  sconto  sulle  capsule  Magia? & 1\\  \hline 
+ Potrei  avere  un  pò  di  sconto  sulle  capsule  Passionale? & 1\\  \hline 
+ Potrei  avere  un  pò  di  sconto  sulle  capsule  Soave? & 1\\  \hline 
+ Potrei  avere  un  pò  di  sconto  sulle  capsule  Intenso? & 1\\  \hline 
+ Potrei  avere  un  pò  di  sconto  sulle  capsule  Deck  Cremoso? & 1\\  \hline 
+ Potrei  avere  un  pò  di  sconto  sulle  capsule  Delizioso? & 1\\  \hline 
+ Potrei  avere  un  pò  di  sconto  sulle  capsule  Divino? & 1\\  \hline 
+ Potrei  avere  un  pò  di  sconto  sulle  capsule  dolce? & 1\\  \hline 
+ Potrei  avere  un  pò  di  sconto  sulle  capsule  Caffè  ginseng? & 1\\  \hline 
+ Abito  in  provincia  di  Torino  è  vero  che  la  spedizione  è  gratuita? & 5\\  \hline 
+ Abito  in  provincia  di  Milano  è  vero  che  la  spedizione  è  gratuita? & 5\\  \hline 
+ Abito  in  provincia  di  Bolzano  è  vero  che  la  spedizione  è  gratuita? & 5\\  \hline 
+ Abito  in  provincia  di  Brescia  è  vero  che  la  spedizione  è  gratuita? & 5\\  \hline 
+ Abito  in  provincia  di  Firenze  è  vero  che  la  spedizione  è  gratuita? & 5\\  \hline 
+ Abito  in  provincia  di  Pisa  è  vero  che  la  spedizione  è  gratuita? & 5\\  \hline 
+ Abito  in  provincia  di  Lucca  è  vero  che  la  spedizione  è  gratuita? & 5\\  \hline 
+ Abito  in  provincia  di  Trento  è  vero  che  la  spedizione  è  gratuita? & 5\\  \hline 
+ Abito  in  provincia  di  Padova  è  vero  che  la  spedizione  è  gratuita? & 5\\  \hline 
+ Posso  essere  contattato  dal  corriere  al  momento  della  consegna  ? & 6\\  \hline 
+ Come  posso  capire  quali  prodotti  acquistare  per  la  mia  macchina  del  caffè? & 6\\  \hline 
+ Come  posso  cercare  una  certa  capsule? & 9\\  \hline 
+ Come  posso  cercare  una  certa  macchina  da  caffè? & 9\\  \hline 
+ Quali  capsule  sono  disponibili  tra  0  e  5  euro? & 14\\  \hline 
+ Quali  capsule  sono  disponibili  tra  2  e  10  euro? & 14\\  \hline 
+ Quali  capsule  sono  disponibili  tra  10  e  20  euro? & 14\\  \hline 
+ Quali  capsule  sono  disponibili  tra  5  e  15  euro? & 14\\  \hline 
+ Fate  ancora  le  capsule  Crema  Aroma? & 1\\  \hline 
+ C'è  uno  sconto  quantità? & 6\\  \hline 
+ Si  possono  usare  capsule  compatibili  nella  macchina  Lavazza  minù? & 7\\  \hline 
+ Si  possono  usare  capsule  compatibili  nella  macchina  Fantasia  Plus? & 7\\  \hline 
+ Si  possono  usare  capsule  compatibili  nella  macchina  Magia  Plus? & 7\\  \hline 
+ Si  possono  usare  capsule  compatibili  nella  macchina  Fantasia  Plus? & 7\\  \hline 
+ Si  possono  usare  capsule  compatibili  nella  macchina  Magia  Plus? & 7\\  \hline 
+ Si  possono  usare  capsule  compatibili  nella  macchina  Minù  caffè  latte? & 7\\  \hline 
+ Si  possono  usare  capsule  compatibili  nella  macchina  Espria  Plus? & 7\\  \hline 
+ Si  possono  usare  capsule  compatibili  nella  macchina  Jolie? & 7\\  \hline 
+ I  celiaci  possono  bere  il  caffè? & 6\\  \hline 
+ Sono  celiaco,  posso  ordinare  le  capsule  Orzo? & 6\\  \hline 
+ Sono  celiaco,  posso  ordinare  le  capsule  Qualità  rossa? & 6\\  \hline 
+ Sono  celiaco,  posso  ordinare  le  capsule  Selva  Alta? & 6\\  \hline 
+ Sono  celiaco,  posso  ordinare  le  capsule  Cereja  Passita? & 6\\  \hline 
+ Sono  celiaco,  posso  ordinare  le  capsule  Aromatico? & 6\\  \hline 
+ Sono  celiaco,  posso  ordinare  le  capsule  Ricco? & 6\\  \hline 
+ Sono  celiaco,  posso  ordinare  le  capsule  tierra? & 6\\  \hline 
+ Sono  celiaco,  posso  ordinare  le  capsule  Magia? & 6\\  \hline 
+ Sono  celiaco,  posso  ordinare  le  capsule  Passionale? & 6\\  \hline 
+ Sono  celiaco,  posso  ordinare  le  capsule  Soave? & 6\\  \hline 
+ Sono  celiaco,  posso  ordinare  le  capsule  Intenso? & 6\\  \hline 
+ Sono  celiaco,  posso  ordinare  le  capsule  Deck  Cremoso? & 6\\  \hline 
+ Sono  celiaco,  posso  ordinare  le  capsule  Delizioso? & 6\\  \hline 
+ Sono  celiaco,  posso  ordinare  le  capsule  Divino? & 6\\  \hline 
+ Sono  celiaco,  posso  ordinare  le  capsule  dolce? & 6\\  \hline 
+ Sono  celiaco,  posso  ordinare  le  capsule  Caffè  ginseng? & 6\\  \hline 
+ Quali  sono  le  capsule  più  caloriche? & 6\\  \hline 
+ Il  caffè  aumenta  il  rischio  di  tumore? & 6\\  \hline 
+ Quante  capsule  posso  bere  al  giorno? & 6\\  \hline 
+ Il  caffè  aiuta  a  essere  più  svegli? & 6\\  \hline 
+ Sono  incinta,  posso  bere  le    capsule  Orzo  oppure  mi  fanno  male? & 6\\  \hline 
+ Sono  incinta,  posso  bere  le    capsule  Qualità  rossa  oppure  mi  fanno  male? & 6\\  \hline 
+ Sono  incinta,  posso  bere  le    capsule  Selva  Alta  oppure  mi  fanno  male? & 6\\  \hline 
+ Sono  incinta,  posso  bere  le    capsule  Cereja  Passita  oppure  mi  fanno  male? & 6\\  \hline 
+ Sono  incinta,  posso  bere  le    capsule  Aromatico  oppure  mi  fanno  male? & 6\\  \hline 
+ Sono  incinta,  posso  bere  le    capsule  Ricco  oppure  mi  fanno  male? & 6\\  \hline 
+ Sono  incinta,  posso  bere  le    capsule  tierra  oppure  mi  fanno  male? & 6\\  \hline 
+ Sono  incinta,  posso  bere  le    capsule  Magia  oppure  mi  fanno  male? & 6\\  \hline 
+ Sono  incinta,  posso  bere  le    capsule  Passionale  oppure  mi  fanno  male? & 6\\  \hline 
+ Sono  incinta,  posso  bere  le    capsule  Soave  oppure  mi  fanno  male? & 6\\  \hline 
+ Sono  incinta,  posso  bere  le    capsule  Intenso  oppure  mi  fanno  male? & 6\\  \hline 
+ Sono  incinta,  posso  bere  le    capsule  Deck  Cremoso  oppure  mi  fanno  male? & 6\\  \hline 
+ Sono  incinta,  posso  bere  le    capsule  Delizioso  oppure  mi  fanno  male? & 6\\  \hline 
+ Sono  incinta,  posso  bere  le    capsule  Divino  oppure  mi  fanno  male? & 6\\  \hline 
+ Sono  incinta,  posso  bere  le    capsule  dolce  oppure  mi  fanno  male? & 6\\  \hline 
+ Sono  incinta,  posso  bere  le    capsule  Caffè  ginseng  oppure  mi  fanno  male? & 6\\  \hline 
+ Perchè  si  trovano  i  fondi  sulla  tazzina  dopo  aver  bevuto  il  caffè? & 6\\  \hline 
+ Posso  dare  le  capsule  al  mio  bambino  per  colazione? & 6\\  \hline 
+ Perchè  sul  sito  non  ci  sono  più  le  capsule  Lavazza  Espresso  Point? & 9\\  \hline 
+ Non  trovo  le  capsule  Orzo  dove  sono? & 9\\  \hline 
+ Non  trovo  le  capsule  Qualità  rossa  dove  sono? & 9\\  \hline 
+ Non  trovo  le  capsule  Selva  Alta  dove  sono? & 9\\  \hline 
+ Non  trovo  le  capsule  Cereja  Passita  dove  sono? & 9\\  \hline 
+ Non  trovo  le  capsule  Aromatico  dove  sono? & 9\\  \hline 
+ Non  trovo  le  capsule  Ricco  dove  sono? & 9\\  \hline 
+ Non  trovo  le  capsule  tierra  dove  sono? & 9\\  \hline 
+ Non  trovo  le  capsule  Magia  dove  sono? & 9\\  \hline 
+ Non  trovo  le  capsule  Passionale  dove  sono? & 9\\  \hline 
+ Non  trovo  le  capsule  Soave  dove  sono? & 9\\  \hline 
+ Non  trovo  le  capsule  Intenso  dove  sono? & 9\\  \hline 
+ Non  trovo  le  capsule  Deck  Cremoso  dove  sono? & 9\\  \hline 
+ Non  trovo  le  capsule  Delizioso  dove  sono? & 9\\  \hline 
+ Non  trovo  le  capsule  Divino  dove  sono? & 9\\  \hline 
+ Non  trovo  le  capsule  dolce  dove  sono? & 9\\  \hline 
+ Non  trovo  le  capsule  Caffè  ginseng  dove  sono? & 9\\  \hline 
+ avete  capsule  di  lavazza  qualità  rossa? & 1\\  \hline 
+ avete  capsule  a  5.99  euro? & 1\\  \hline 
+ avete  capsule  che  costano  meno  di  10  euro? & 1\\  \hline 
+ avete  capsule  che  costano  più  di  5  euro? & 1\\  \hline 
+ mi  servirebbero  delle  capsule  con  intensità  5. & 1\\  \hline 
+ vorrei  acquistare  delle  capsule  con  intensità  inferiore  a  10. & 1\\  \hline 
+ avete  scatole  di  capsule  da  16? & 1\\  \hline 
+ quali  capsule  vengono  vendute  in  scatole  con  meno  di  15  capsule? & 1\\  \hline 
+ avete  scatole  che  contengono  più  di  12  capsule? & 1\\  \hline 
+ mi  servirebbero  delle  capsule  con  tostatura  media. & 1\\  \hline 
+ avrei  bisogno  di  capsule  con  tostatura  scura  e  intensità  superiore  a  7. & 1\\  \hline 
+ mi  servirebbero  delle  capsule  con  intensità  10  e  tostatura  media. & 1\\  \hline 
+ avete  capsule  con  miscela  arabica  a  meno  di  7  euro  con  intensità  superiore  a  6? & 1\\  \hline 
+ quanto  costano  le  capsule  lavazza  qualità  rossa? & 2\\  \hline 
+ quante  capsule  ci  sono  in  una  scatola  di  lavazza  qualità  rossa? & 2\\  \hline 
+ quanto  costa  e  che  intensità  ha  lavazza  qualità  rossa? & 2\\  \hline 
+ quante  capsule  ci  sono  in  una  scatola  di  capsule  di  intensità  9? & 2\\  \hline 
+ quanto  può  essere  intenso  il  caffè? & 2\\  \hline 
+ quali  sono  le  caratteristiche  delle  capsule? & 11\\  \hline 
+ quante  capsule  ci  sono  in  una  scatola  di  divino  o  di  qualità  rossa? & 13\\  \hline 
+ quanto  costa  una  scatola  da  16  di  lavazza  magia? & 2\\  \hline 
+ mi  servirebbe  una  macchina  da  caffè  a  meno  di  100  euro. & 1\\  \hline 
+ vendete  la  macchina  da  caffè  jolie? & 1\\  \hline 
+ avete  macchine  da  caffè  con  serbatoio  di  capacità  0.8  litri? & 1\\  \hline 
+ mi  piacerebbe  una  macchina  da  caffè  grigia. & 1\\  \hline 
+ in  quali  colori  è  disponibile  la  jolie? & 2\\  \hline 
+ quanto  costa  la  fantasia  plus? & 2\\  \hline 
+ quanta  acqua  entra  in  magia? & 2\\  \hline 
+ qual'è  la  capacità  del  serbatoio  di  magia  e  fantasia  plus? & 13\\  \hline 
+ vorrei  una  macchina  da  caffè  compatibile  con  le  capsule  lavazza  qualità  rossa. & 10\\  \hline 
+ mi  servirebbe  una  macchinetta  compatibile  con  le  capsule  nespresso. & 10\\  \hline 
+ mi  interessa  la  jolie  quanto  costa? & 2\\  \hline 
+ mi  interesserebbe  una  macchinetta  da  caffè  che  pesi  meno  di  5  kili. & 1\\  \hline 
+ vorrei  delle  capsule  lavazza  qualità  rossa  e  una  macchinetta  jolie. & 13\\  \hline 
+ vorrei  delle  capsule  a  meno  di  5  euro  compatibili  con  la  jolie. & 10\\  \hline 
+ Vorrei  una  panoramica  sulla  macchina  da  caffè  fantasia & 11\\  \hline 
+ Vorrei  una  panoramica  sulla  macchina  da  caffè  fantasia  plus & 11\\  \hline 
+ Vorrei  una  panoramica  sulla  macchina  da  caffè  jolie & 11\\  \hline 
+ Vorrei  una  panoramica  sulla  macchina  da  caffè  minù & 11\\  \hline 
+ Vorrei  una  panoramica  sulla  macchina  da  caffè  minù  caffè  latte & 11\\  \hline 
+ Vorrei  una  panoramica  sulla  macchina  da  caffè  magia & 11\\  \hline 
+ Vorrei  una  panoramica  sulla  macchina  da  caffè  magia  plus & 11\\  \hline 
+ Vorrei  una  panoramica  sulla  macchina  da  caffè  espria  plus & 11\\  \hline 
+ vorrei  una  macchinetta  che  pesi  meno  di  3  kili  di  colore  rosso. & 1\\  \hline 
+&
+&
+&

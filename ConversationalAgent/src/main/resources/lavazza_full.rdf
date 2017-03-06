@@ -1,0 +1,1647 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://eu.reply.it/Lavazza#output/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.1="http://eu.reply.it/Lavazza#property/"
+    xmlns:j.2="http://eu.reply.it/Lavazza#input/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:j.3="http://eu.reply.it/Lavazza#"
+    xmlns:j.4="http://eu.reply.it/Lavazza#class/" > 
+  <rdf:Description rdf:nodeID="A0">
+    <rdf:rest rdf:nodeID="A1"/>
+    <rdf:first rdf:resource="http://eu.reply.it/autoOFF"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/orange">
+    <j.0:message_not>arancione</j.0:message_not>
+    <j.0:message_plural>arancione</j.0:message_plural>
+    <j.0:message_singular>arancione</j.0:message_singular>
+    <j.2:example>aranc</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>orange</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A2">
+    <rdf:rest rdf:nodeID="A3"/>
+    <rdf:first rdf:resource="http://eu.reply.it/dec"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/false_dec">
+    <j.0:message_not>con caffeina</j.0:message_not>
+    <j.0:message_plural>con caffeina</j.0:message_plural>
+    <j.0:message_singular>con caffeina</j.0:message_singular>
+    <j.2:example>caffeina</j.2:example>
+    <j.2:example>non decaffeinate</j.2:example>
+    <j.2:example>non decaffeinato</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>false_dec</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/Lavazza#name">
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/electrolux">
+    <j.0:message_not>electrolux</j.0:message_not>
+    <j.0:message_plural>electrolux</j.0:message_plural>
+    <j.0:message_singular>electrolux</j.0:message_singular>
+    <j.2:example>electrolux</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>electrolux</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/color">
+    <j.0:message_not>di colore</j.0:message_not>
+    <j.2:example>colorazione</j.2:example>
+    <j.2:example>colore</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <j.1:value rdf:resource="http://eu.reply.it/red"/>
+    <j.2:example>colori</j.2:example>
+    <j.1:value rdf:resource="http://eu.reply.it/green"/>
+    <j.0:message_singular>di colore</j.0:message_singular>
+    <j.1:value rdf:resource="http://eu.reply.it/blue"/>
+    <j.0:message_plural>di colore</j.0:message_plural>
+    <j.3:name>color</j.3:name>
+    <j.1:value rdf:resource="http://eu.reply.it/cyan"/>
+    <j.1:value rdf:resource="http://eu.reply.it/grey"/>
+    <j.1:value rdf:resource="http://eu.reply.it/yellow"/>
+    <j.1:value rdf:resource="http://eu.reply.it/light blue"/>
+    <j.1:value rdf:resource="http://eu.reply.it/black"/>
+    <j.1:value rdf:resource="http://eu.reply.it/lime"/>
+    <j.1:value rdf:resource="http://eu.reply.it/orange"/>
+    <j.1:value rdf:resource="http://eu.reply.it/white"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A4">
+    <rdf:rest rdf:nodeID="A5"/>
+    <rdf:first rdf:resource="http://eu.reply.it/price"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/true_light">
+    <j.0:message_not>leggere</j.0:message_not>
+    <j.0:message_plural>leggere</j.0:message_plural>
+    <j.0:message_singular>leggera</j.0:message_singular>
+    <j.2:example>legger</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>true_light</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/false_thermoblock">
+    <j.2:example>prive di blocco termico</j.2:example>
+    <j.0:message_singular>senza thermoblock</j.0:message_singular>
+    <j.2:example>senza thermoblock</j.2:example>
+    <j.3:name>false_thermoblock</j.3:name>
+    <j.2:example>senza blocco termico</j.2:example>
+    <j.2:example>prive di thermoblock</j.2:example>
+    <j.2:example>priva di thermoblock</j.2:example>
+    <j.2:example>priva di blocco termico</j.2:example>
+    <j.0:message_plural>senza thermoblock</j.0:message_plural>
+    <j.0:message_not>senza thermoblock</j.0:message_not>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A6">
+    <rdf:rest rdf:nodeID="A7"/>
+    <rdf:first rdf:resource="http://eu.reply.it/features"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/Lavazza#class/mod">
+    <j.3:classRelation rdf:resource="http://eu.reply.it/Lavazza#class/unit"/>
+    <j.3:template rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <j.3:onlyOne rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.3:onlyOne>
+    <j.3:completeness rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.3:completeness>
+    <j.3:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mod</j.3:name>
+    <j.3:salience rdf:datatype="http://www.w3.org/2001/XMLSchema#long">70</j.3:salience>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A8">
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first rdf:resource="http://eu.reply.it/Lavazza#class/domain"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/Lavazza#property/unit">
+    <rdfs:range rdf:resource="http://eu.reply.it/Lavazza#class/unit"/>
+    <rdfs:domain rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/yellow">
+    <j.0:message_not>giallo</j.0:message_not>
+    <j.0:message_plural>giallo</j.0:message_plural>
+    <j.0:message_singular>giallo</j.0:message_singular>
+    <j.2:example>giall</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>yellow</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/arabic">
+    <j.0:message_not>miscela arabica</j.0:message_not>
+    <j.0:message_plural>miscela arabica</j.0:message_plural>
+    <j.0:message_singular>miscela arabica</j.0:message_singular>
+    <j.2:example>cento per cento arabic</j.2:example>
+    <j.2:example>100% arabic</j.2:example>
+    <j.2:example>arabic</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>arabic</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/true_autoOFF">
+    <j.0:message_not>con spegnimento automatico</j.0:message_not>
+    <j.0:message_plural>con spegnimento automatico</j.0:message_plural>
+    <j.0:message_singular>con spegnimento automatico</j.0:message_singular>
+    <j.2:example>autospegnimento</j.2:example>
+    <j.2:example>spegnimento automatico</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>true_autoOFF</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/lavazza qualità rossa">
+    <j.0:message_not>lavazza qualità rossa</j.0:message_not>
+    <j.0:message_plural>lavazza qualità rossa</j.0:message_plural>
+    <j.0:message_singular>lavazza qualità rossa</j.0:message_singular>
+    <j.2:example>lavazza qualità rossa</j.2:example>
+    <j.2:example>qualità rossa</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>lavazza qualità rossa</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/brand">
+    <j.0:message_not>di marca</j.0:message_not>
+    <j.1:value rdf:resource="http://eu.reply.it/nespresso"/>
+    <j.3:name>brand</j.3:name>
+    <j.1:value rdf:resource="http://eu.reply.it/other_brand"/>
+    <j.2:example>marche</j.2:example>
+    <j.1:value rdf:resource="http://eu.reply.it/caffitaly"/>
+    <j.0:message_singular>di marca</j.0:message_singular>
+    <j.2:example>marca</j.2:example>
+    <j.1:value rdf:resource="http://eu.reply.it/electrolux"/>
+    <j.1:value rdf:resource="http://eu.reply.it/lavazza"/>
+    <j.0:message_plural>di marca</j.0:message_plural>
+    <j.2:example>azienda</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/intensity">
+    <j.3:name>intensity</j.3:name>
+    <j.0:message_not>con intensità</j.0:message_not>
+    <j.1:mod rdf:resource="http://eu.reply.it/more"/>
+    <j.1:value rdf:resource="http://eu.reply.it/integer"/>
+    <j.0:message_plural>con intensità</j.0:message_plural>
+    <j.2:example>intenso</j.2:example>
+    <j.0:message_singular>con intensità</j.0:message_singular>
+    <j.1:mod rdf:resource="http://eu.reply.it/less"/>
+    <j.2:example>intense</j.2:example>
+    <j.2:example>intensità</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/milk">
+    <j.0:message_not>latte in polvere</j.0:message_not>
+    <j.0:message_plural>latte in polvere</j.0:message_plural>
+    <j.0:message_singular>latte in polvere</j.0:message_singular>
+    <j.2:example>latte in polvere</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>milk</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/bio">
+    <j.1:value rdf:resource="http://eu.reply.it/true_bio"/>
+    <j.1:value rdf:resource="http://eu.reply.it/false_bio"/>
+    <j.0:message_not></j.0:message_not>
+    <j.0:message_plural></j.0:message_plural>
+    <j.0:message_singular></j.0:message_singular>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <j.3:name>bio</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/capsule">
+    <j.1:hasA rdf:resource="http://eu.reply.it/features"/>
+    <j.2:example>capsule</j.2:example>
+    <j.2:example>caffe</j.2:example>
+    <j.0:message_not>capsule</j.0:message_not>
+    <j.1:hasA rdf:resource="http://eu.reply.it/brand"/>
+    <j.3:template rdf:nodeID="A9"/>
+    <j.1:hasA rdf:resource="http://eu.reply.it/bio"/>
+    <j.2:example>cialde</j.2:example>
+    <j.1:hasA rdf:resource="http://eu.reply.it/promo"/>
+    <j.1:hasA rdf:resource="http://eu.reply.it/quantity"/>
+    <j.1:hasA rdf:resource="http://eu.reply.it/price"/>
+    <j.1:hasA rdf:resource="http://eu.reply.it/name capsule"/>
+    <j.2:example>capsula</j.2:example>
+    <j.2:example>caffè</j.2:example>
+    <j.1:hasA rdf:resource="http://eu.reply.it/dec"/>
+    <j.1:compatible rdf:resource="http://eu.reply.it/compatible"/>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/domain"/>
+    <j.1:hasA rdf:resource="http://eu.reply.it/roasting"/>
+    <j.3:name>capsule</j.3:name>
+    <j.0:message_singular>capsula</j.0:message_singular>
+    <j.1:hasA rdf:resource="http://eu.reply.it/intensity"/>
+    <j.2:example>cialda</j.2:example>
+    <j.1:hasA rdf:resource="http://eu.reply.it/cheap"/>
+    <j.1:hasA rdf:resource="http://eu.reply.it/expensive"/>
+    <j.0:message_plural>capsule</j.0:message_plural>
+    <j.2:example>prodott</j.2:example>
+    <j.1:hasA rdf:resource="http://eu.reply.it/composition"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A10">
+    <rdf:rest rdf:nodeID="A2"/>
+    <rdf:first rdf:resource="http://eu.reply.it/promo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/caffitaly">
+    <j.0:message_not>caffitaly</j.0:message_not>
+    <j.0:message_plural>caffitaly</j.0:message_plural>
+    <j.0:message_singular>caffitaly</j.0:message_singular>
+    <j.2:example>caffitaly</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>caffitaly</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A11">
+    <rdf:rest rdf:nodeID="A0"/>
+    <rdf:first rdf:resource="http://eu.reply.it/light"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/false_cheap">
+    <j.0:message_not>non economiche</j.0:message_not>
+    <j.0:message_plural>non economiche</j.0:message_plural>
+    <j.0:message_singular>non economica</j.0:message_singular>
+    <j.2:example>nè economic</j.2:example>
+    <j.2:example>ne' economic</j.2:example>
+    <j.2:example>meno economic</j.2:example>
+    <j.2:example>non economic</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>false_cheap</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/blue">
+    <j.0:message_not>blu</j.0:message_not>
+    <j.0:message_plural>blu</j.0:message_plural>
+    <j.0:message_singular>blu</j.0:message_singular>
+    <j.2:example>blu</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>blue</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/grey">
+    <j.0:message_not>grigio</j.0:message_not>
+    <j.0:message_plural>grigio</j.0:message_plural>
+    <j.0:message_singular>grigio</j.0:message_singular>
+    <j.2:example>acciaio</j.2:example>
+    <j.2:example>grigi</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>grey</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/false_promo">
+    <j.0:message_not>non in promozione</j.0:message_not>
+    <j.0:message_plural>non in promozione</j.0:message_plural>
+    <j.0:message_singular>non in promozione</j.0:message_singular>
+    <j.2:example>non in offerta</j.2:example>
+    <j.2:example>non in promozione</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>false_promo</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/quantity">
+    <j.2:example>scatola</j.2:example>
+    <j.2:example>formati</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <j.1:mod rdf:resource="http://eu.reply.it/more"/>
+    <j.1:mod rdf:resource="http://eu.reply.it/less"/>
+    <j.2:example>confezioni</j.2:example>
+    <j.3:name>quantity</j.3:name>
+    <j.0:message_plural>con dimensione scatola</j.0:message_plural>
+    <j.0:message_not>con dimensione scatola</j.0:message_not>
+    <j.2:example>formato</j.2:example>
+    <j.1:value rdf:resource="http://eu.reply.it/integer"/>
+    <j.2:example>confezione</j.2:example>
+    <j.2:example>scatole</j.2:example>
+    <j.2:example>pacco</j.2:example>
+    <j.2:example>pacchi</j.2:example>
+    <j.0:message_singular>con dimensione scatola</j.0:message_singular>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/more">
+    <j.2:example>minimo</j.2:example>
+    <j.3:name>more</j.3:name>
+    <j.2:example>maggiore</j.2:example>
+    <j.0:message_singular>maggiore di</j.0:message_singular>
+    <j.2:example>superiore</j.2:example>
+    <j.0:message_plural>maggiore di</j.0:message_plural>
+    <j.0:message_not>maggiore di</j.0:message_not>
+    <j.2:example>non inferiore</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/mod"/>
+    <j.2:example>sopra</j.2:example>
+    <j.2:example>più</j.2:example>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/lavazza soave">
+    <j.0:message_not>lavazza soave</j.0:message_not>
+    <j.0:message_plural>lavazza soave</j.0:message_plural>
+    <j.0:message_singular>lavazza soave</j.0:message_singular>
+    <j.2:example>lavazza soave</j.2:example>
+    <j.2:example>soave</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>lavazza soave</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/Lavazza#class/extracted">
+    <j.3:onlyOne rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</j.3:onlyOne>
+    <j.3:completeness rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.3:completeness>
+    <j.3:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">extracted</j.3:name>
+    <j.3:salience rdf:datatype="http://www.w3.org/2001/XMLSchema#long">-1</j.3:salience>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A12">
+    <rdf:rest rdf:nodeID="A6"/>
+    <rdf:first rdf:resource="http://eu.reply.it/brand"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/lavazza aromatico">
+    <j.0:message_not>lavazza aromatico</j.0:message_not>
+    <j.0:message_plural>lavazza aromatico</j.0:message_plural>
+    <j.0:message_singular>lavazza aromatico</j.0:message_singular>
+    <j.2:example>lavazza aromatico</j.2:example>
+    <j.2:example>aromatico</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>lavazza aromatico</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/false_fast">
+    <j.0:message_not>non veloci</j.0:message_not>
+    <j.0:message_plural>non veloci</j.0:message_plural>
+    <j.0:message_singular>non veloce</j.0:message_singular>
+    <j.2:example>nè veloc</j.2:example>
+    <j.2:example>ne' veloc</j.2:example>
+    <j.2:example>non veloc</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>false_fast</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/Lavazza#class/number">
+    <j.3:classRelation rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:template rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <j.3:onlyOne rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</j.3:onlyOne>
+    <j.3:completeness rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.3:completeness>
+    <j.3:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">number</j.3:name>
+    <j.3:salience rdf:datatype="http://www.w3.org/2001/XMLSchema#long">50</j.3:salience>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/true_programmable">
+    <j.0:message_not>con erogazione programmabile</j.0:message_not>
+    <j.0:message_plural>con erogazione programmabile</j.0:message_plural>
+    <j.0:message_singular>con erogazione programmabile</j.0:message_singular>
+    <j.2:example>programmare l'ora per fare il caffè</j.2:example>
+    <j.2:example>programmabil</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>true_programmable</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/integer">
+    <j.0:message_not>{value:token}</j.0:message_not>
+    <j.0:message_plural>{value:token}</j.0:message_plural>
+    <j.0:message_singular>{value:token}</j.0:message_singular>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/number"/>
+    <j.3:name>integer</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/tea">
+    <j.0:message_not>tè</j.0:message_not>
+    <j.0:message_plural>tè</j.0:message_plural>
+    <j.0:message_singular>tè</j.0:message_singular>
+    <j.2:example>tea</j.2:example>
+    <j.2:example>the</j.2:example>
+    <j.2:example>tè</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>tea</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A13">
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first rdf:resource="http://eu.reply.it/Lavazza#class/unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A14">
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first rdf:resource="http://eu.reply.it/compatible"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/true_dec">
+    <j.0:message_not>senza caffeina</j.0:message_not>
+    <j.0:message_plural>senza caffeina</j.0:message_plural>
+    <j.0:message_singular>senza caffeina</j.0:message_singular>
+    <j.2:example>senza caffeina</j.2:example>
+    <j.2:example>decaffeinato</j.2:example>
+    <j.2:example>decaffeinate</j.2:example>
+    <j.2:example>dec</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>true_dec</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/tank capacity">
+    <j.2:example>acqua</j.2:example>
+    <j.2:example>serbatoio</j.2:example>
+    <j.1:mod rdf:resource="http://eu.reply.it/more"/>
+    <j.0:message_not>con capacità serbatoio</j.0:message_not>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <j.2:example>capacità serbatoio</j.2:example>
+    <j.1:unit rdf:resource="http://eu.reply.it/liters"/>
+    <j.3:name>tank capacity</j.3:name>
+    <j.1:mod rdf:resource="http://eu.reply.it/less"/>
+    <j.1:number rdf:resource="http://eu.reply.it/float"/>
+    <j.0:message_singular>con capacità serbatoio</j.0:message_singular>
+    <j.1:number rdf:resource="http://eu.reply.it/integer"/>
+    <j.0:message_plural>con capacità serbatoio</j.0:message_plural>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/kg">
+    <j.0:message_singular>kg</j.0:message_singular>
+    <j.2:example>kg</j.2:example>
+    <j.2:example>kilogrammi</j.2:example>
+    <j.2:example>kili</j.2:example>
+    <j.2:example>kilo</j.2:example>
+    <j.2:example>kilogrammo</j.2:example>
+    <j.0:message_plural>kg</j.0:message_plural>
+    <j.3:name>kg</j.3:name>
+    <j.0:message_not>kg</j.0:message_not>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/robust">
+    <j.0:message_not>miscela robusta</j.0:message_not>
+    <j.0:message_plural>miscela robusta</j.0:message_plural>
+    <j.0:message_singular>miscela robusta</j.0:message_singular>
+    <j.2:example>robust</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>robust</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/lavazza ricco">
+    <j.0:message_not>lavazza ricco</j.0:message_not>
+    <j.0:message_plural>lavazza ricco</j.0:message_plural>
+    <j.0:message_singular>lavazza ricco</j.0:message_singular>
+    <j.2:example>lavazza ricco</j.2:example>
+    <j.2:example>ricco</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>lavazza ricco</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/compatible">
+    <j.0:message_singular>compatibili con</j.0:message_singular>
+    <j.0:message_plural>compatibili con</j.0:message_plural>
+    <j.2:example>compatibili</j.2:example>
+    <j.2:example>compatibile</j.2:example>
+    <j.2:example>per le</j.2:example>
+    <j.2:example>per la</j.2:example>
+    <j.3:name>compatible</j.3:name>
+    <j.1:value rdf:resource="http://eu.reply.it/dump"/>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <j.0:message_not>compatibili con</j.0:message_not>
+    <j.2:example>essere inserit</j.2:example>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/fast">
+    <j.1:value rdf:resource="http://eu.reply.it/true_fast"/>
+    <j.1:value rdf:resource="http://eu.reply.it/false_fast"/>
+    <j.0:message_not></j.0:message_not>
+    <j.0:message_plural></j.0:message_plural>
+    <j.0:message_singular></j.0:message_singular>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <j.3:name>fast</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/jolie">
+    <j.0:message_not>jolie</j.0:message_not>
+    <j.0:message_plural>jolie</j.0:message_plural>
+    <j.0:message_singular>jolie</j.0:message_singular>
+    <j.2:example>lavazza jolie</j.2:example>
+    <j.2:example>jolie</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>jolie</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/Lavazza#class/property">
+    <j.3:classRelation rdf:resource="http://eu.reply.it/Lavazza#class/mod"/>
+    <j.3:complete rdf:nodeID="A15"/>
+    <j.3:template rdf:nodeID="A16"/>
+    <j.3:onlyOne rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</j.3:onlyOne>
+    <j.3:completeness rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.3:completeness>
+    <j.3:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">property</j.3:name>
+    <j.3:salience rdf:datatype="http://www.w3.org/2001/XMLSchema#long">80</j.3:salience>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/true_cheap">
+    <j.0:message_not>economiche</j.0:message_not>
+    <j.0:message_plural>economiche</j.0:message_plural>
+    <j.0:message_singular>economica</j.0:message_singular>
+    <j.2:example>più economic</j.2:example>
+    <j.2:example>economic</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>true_cheap</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/Lavazza#class/unit">
+    <j.3:classRelation rdf:resource="http://eu.reply.it/Lavazza#class/number"/>
+    <j.3:template rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <j.3:onlyOne rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</j.3:onlyOne>
+    <j.3:completeness rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.3:completeness>
+    <j.3:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">unit</j.3:name>
+    <j.3:salience rdf:datatype="http://www.w3.org/2001/XMLSchema#long">60</j.3:salience>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/Lavazza#template">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/lavazza selva alta">
+    <j.0:message_not>lavazza selva alta</j.0:message_not>
+    <j.0:message_plural>lavazza selva alta</j.0:message_plural>
+    <j.0:message_singular>lavazza selva alta</j.0:message_singular>
+    <j.2:example>lavazza selva alta</j.2:example>
+    <j.2:example>selva alta</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>lavazza selva alta</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A17">
+    <rdf:rest rdf:nodeID="A11"/>
+    <rdf:first rdf:resource="http://eu.reply.it/heavy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/lavazza dolce">
+    <j.0:message_not>lavazza dolce</j.0:message_not>
+    <j.0:message_plural>lavazza dolce</j.0:message_plural>
+    <j.0:message_singular>lavazza dolce</j.0:message_singular>
+    <j.2:example>lavazza dolce</j.2:example>
+    <j.2:example>dolce</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>lavazza dolce</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/false_light">
+    <j.0:message_not>non leggere</j.0:message_not>
+    <j.0:message_plural>non leggere</j.0:message_plural>
+    <j.0:message_singular>non leggera</j.0:message_singular>
+    <j.2:example>nè legger</j.2:example>
+    <j.2:example>ne' legger</j.2:example>
+    <j.2:example>non legger</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>false_light</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/black">
+    <j.0:message_plural>ner</j.0:message_plural>
+    <j.0:message_singular>ner</j.0:message_singular>
+    <j.3:name>black</j.3:name>
+    <j.0:message_plural>scura</j.0:message_plural>
+    <j.2:example>nera</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.2:example>scura</j.2:example>
+    <j.0:message_not>scura</j.0:message_not>
+    <j.2:example>forte</j.2:example>
+    <j.0:message_not>ner</j.0:message_not>
+    <j.2:example>amaro</j.2:example>
+    <j.0:message_singular>scura</j.0:message_singular>
+    <j.2:example>nero</j.2:example>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/lavazza deck cremoso">
+    <j.0:message_not>lavazza deck cremoso</j.0:message_not>
+    <j.0:message_plural>lavazza deck cremoso</j.0:message_plural>
+    <j.0:message_singular>lavazza deck cremoso</j.0:message_singular>
+    <j.2:example>lavazza dek cremoso</j.2:example>
+    <j.2:example>dek cremoso</j.2:example>
+    <j.2:example>lavazza deck cremoso</j.2:example>
+    <j.2:example>deck cremoso</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>lavazza deck cremoso</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/Lavazza#property/hasA">
+    <rdfs:range rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <rdfs:domain rdf:resource="http://eu.reply.it/Lavazza#class/domain"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/nespresso">
+    <j.0:message_not>nespresso</j.0:message_not>
+    <j.0:message_plural>nespresso</j.0:message_plural>
+    <j.0:message_singular>nespresso</j.0:message_singular>
+    <j.2:example>nespresso</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>nespresso</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A18">
+    <rdf:rest rdf:nodeID="A13"/>
+    <rdf:first rdf:resource="http://eu.reply.it/Lavazza#class/number"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/seconds">
+    <j.0:message_not>sec</j.0:message_not>
+    <j.0:message_plural>sec</j.0:message_plural>
+    <j.0:message_singular>sec</j.0:message_singular>
+    <j.2:example>secondo</j.2:example>
+    <j.2:example>secondi</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/unit"/>
+    <j.3:name>seconds</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/false_programmable">
+    <j.0:message_not>con erogazione non programmabile</j.0:message_not>
+    <j.0:message_plural>con erogazione non programmabile</j.0:message_plural>
+    <j.0:message_singular>con erogazione non programmabile</j.0:message_singular>
+    <j.2:example>non programmare l’ora per fare il caffè</j.2:example>
+    <j.2:example>non programmabil</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>false_programmable</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A19">
+    <rdf:rest rdf:nodeID="A14"/>
+    <rdf:first rdf:resource="http://eu.reply.it/features"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A20">
+    <rdf:rest rdf:nodeID="A12"/>
+    <rdf:first rdf:resource="http://eu.reply.it/name machine"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/true_expensive">
+    <j.0:message_not>care</j.0:message_not>
+    <j.0:message_plural>care</j.0:message_plural>
+    <j.0:message_singular>cara</j.0:message_singular>
+    <j.2:example>più costos</j.2:example>
+    <j.2:example>costos</j.2:example>
+    <j.2:example>più car</j.2:example>
+    <j.2:example>car</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>true_expensive</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/greetings">
+    <j.0:message_singular></j.0:message_singular>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/dialog"/>
+    <j.2:example>buonanotte</j.2:example>
+    <j.2:example>i miei ossequi</j.2:example>
+    <j.2:example>salve</j.2:example>
+    <j.2:example>buongiorno</j.2:example>
+    <j.3:name>greetings</j.3:name>
+    <j.2:example>buonasera</j.2:example>
+    <j.0:message_plural></j.0:message_plural>
+    <j.0:message_not>Ciao</j.0:message_not>
+    <j.2:example>ciao</j.2:example>
+    <j.2:example>buondì</j.2:example>
+    <j.2:example>buondi</j.2:example>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/lavazza tierra">
+    <j.0:message_not>lavazza tierra</j.0:message_not>
+    <j.0:message_plural>lavazza tierra</j.0:message_plural>
+    <j.0:message_singular>lavazza tierra</j.0:message_singular>
+    <j.2:example>lavazza tierra</j.2:example>
+    <j.2:example>tierra</j.2:example>
+    <j.2:example>¡tierra!</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>lavazza tierra</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A16">
+    <rdf:rest rdf:nodeID="A21"/>
+    <rdf:first rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/true_thermoblock">
+    <j.0:message_not>con thermoblock</j.0:message_not>
+    <j.0:message_plural>con thermoblock</j.0:message_plural>
+    <j.0:message_singular>con thermoblock</j.0:message_singular>
+    <j.2:example>blocco termico</j.2:example>
+    <j.2:example>thermoblock</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>true_thermoblock</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/slow">
+    <j.1:value rdf:resource="http://eu.reply.it/true_slow"/>
+    <j.1:value rdf:resource="http://eu.reply.it/false_slow"/>
+    <j.0:message_not></j.0:message_not>
+    <j.0:message_plural></j.0:message_plural>
+    <j.0:message_singular></j.0:message_singular>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <j.3:name>slow</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/Lavazza#property/number">
+    <rdfs:range rdf:resource="http://eu.reply.it/Lavazza#class/number"/>
+    <rdfs:domain rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/Lavazza#property/value">
+    <rdfs:range rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <rdfs:domain rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A22">
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/Lavazza#output/message_not">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/Lavazza#onlyOne">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A23">
+    <rdf:rest rdf:nodeID="A17"/>
+    <rdf:first rdf:resource="http://eu.reply.it/slow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/noAnswer">
+    <j.0:message_not>non ho capito di cosa stai parlando. prova a riformulare la frase sono un po' ignorante.</j.0:message_not>
+    <j.0:message_plural></j.0:message_plural>
+    <j.0:message_singular></j.0:message_singular>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/noAnswer"/>
+    <j.3:name>noAnswer</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/Lavazza#class/noAnswer">
+    <j.3:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">confirmQuestion</j.3:name>
+    <j.3:onlyOne rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</j.3:onlyOne>
+    <j.3:completeness rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.3:completeness>
+    <j.3:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">noAnswer</j.3:name>
+    <j.3:salience rdf:datatype="http://www.w3.org/2001/XMLSchema#long">-1</j.3:salience>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/float">
+    <j.0:message_not>{value:token}</j.0:message_not>
+    <j.0:message_plural>{value:token}</j.0:message_plural>
+    <j.0:message_singular>{value:token}</j.0:message_singular>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/number"/>
+    <j.3:name>float</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/false_slow">
+    <j.0:message_not>non lente</j.0:message_not>
+    <j.0:message_plural>non lente</j.0:message_plural>
+    <j.0:message_singular>non lenta</j.0:message_singular>
+    <j.2:example>nè lent</j.2:example>
+    <j.2:example>ne' lent</j.2:example>
+    <j.2:example>non lent</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>false_slow</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A24">
+    <rdf:rest rdf:nodeID="A10"/>
+    <rdf:first rdf:resource="http://eu.reply.it/expensive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/magia">
+    <j.0:message_not>magia</j.0:message_not>
+    <j.0:message_plural>magia</j.0:message_plural>
+    <j.0:message_singular>magia</j.0:message_singular>
+    <j.2:example>magia</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>magia</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/liters">
+    <j.0:message_not>L</j.0:message_not>
+    <j.0:message_plural>L</j.0:message_plural>
+    <j.0:message_singular>L</j.0:message_singular>
+    <j.2:example>litro</j.2:example>
+    <j.2:example>litri</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/unit"/>
+    <j.3:name>liters</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/true_fast">
+    <j.0:message_not>veloci</j.0:message_not>
+    <j.0:message_plural>veloci</j.0:message_plural>
+    <j.0:message_singular>veloce</j.0:message_singular>
+    <j.2:example>veloc</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>true_fast</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/electrolux magia">
+    <j.0:message_not>electrolux magia</j.0:message_not>
+    <j.0:message_plural>electrolux magia</j.0:message_plural>
+    <j.0:message_singular>electrolux magia</j.0:message_singular>
+    <j.2:example>electrolux magia</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>electrolux magia</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/Lavazza#input/example">
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/average">
+    <j.0:message_not>media</j.0:message_not>
+    <j.0:message_plural>media</j.0:message_plural>
+    <j.0:message_singular>media</j.0:message_singular>
+    <j.2:example>media</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>average</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A21">
+    <rdf:rest rdf:nodeID="A18"/>
+    <rdf:first rdf:resource="http://eu.reply.it/Lavazza#class/mod"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A25">
+    <rdf:rest rdf:nodeID="A19"/>
+    <rdf:first rdf:resource="http://eu.reply.it/brand"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/programmable">
+    <j.1:value rdf:resource="http://eu.reply.it/true_programmable"/>
+    <j.1:value rdf:resource="http://eu.reply.it/false_programmable"/>
+    <j.0:message_not></j.0:message_not>
+    <j.0:message_plural></j.0:message_plural>
+    <j.0:message_singular></j.0:message_singular>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <j.3:name>programmable</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/ginseng">
+    <j.0:message_not>ginseng</j.0:message_not>
+    <j.0:message_plural>ginseng</j.0:message_plural>
+    <j.0:message_singular>ginseng</j.0:message_singular>
+    <j.2:example>ginseng</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>ginseng</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A26">
+    <rdf:rest rdf:nodeID="A20"/>
+    <rdf:first rdf:resource="http://eu.reply.it/weight"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/less">
+    <j.0:message_not>minore di</j.0:message_not>
+    <j.0:message_singular>minore di</j.0:message_singular>
+    <j.2:example>inferiore</j.2:example>
+    <j.2:example>minori</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/mod"/>
+    <j.0:message_plural>minore di</j.0:message_plural>
+    <j.2:example>sotto</j.2:example>
+    <j.2:example>massimo</j.2:example>
+    <j.2:example>non superiore</j.2:example>
+    <j.2:example>meno</j.2:example>
+    <j.2:example>minore</j.2:example>
+    <j.3:name>less</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/heavy">
+    <j.1:value rdf:resource="http://eu.reply.it/false_heavy"/>
+    <j.1:value rdf:resource="http://eu.reply.it/true_heavy"/>
+    <j.0:message_not></j.0:message_not>
+    <j.0:message_plural></j.0:message_plural>
+    <j.0:message_singular></j.0:message_singular>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <j.3:name>heavy</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/false_milkProgram">
+    <j.0:message_not>senza ricette latte</j.0:message_not>
+    <j.0:message_plural>senza ricette latte</j.0:message_plural>
+    <j.0:message_singular>senza ricette latte</j.0:message_singular>
+    <j.2:example>senza vapore</j.2:example>
+    <j.2:example>senza ricette latte</j.2:example>
+    <j.2:example>non fanno il cappuccino</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>false_milkProgram</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/dec">
+    <j.1:value rdf:resource="http://eu.reply.it/false_dec"/>
+    <j.1:value rdf:resource="http://eu.reply.it/true_dec"/>
+    <j.0:message_not></j.0:message_not>
+    <j.0:message_plural></j.0:message_plural>
+    <j.0:message_singular></j.0:message_singular>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <j.3:name>dec</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/espria plus">
+    <j.0:message_not>espria plus</j.0:message_not>
+    <j.0:message_plural>espria plus</j.0:message_plural>
+    <j.0:message_singular>espria plus</j.0:message_singular>
+    <j.2:example>electrolux espria plus</j.2:example>
+    <j.2:example>espria plus</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>espria plus</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/lavazza passionale">
+    <j.0:message_not>lavazza passionale</j.0:message_not>
+    <j.0:message_plural>lavazza passionale</j.0:message_plural>
+    <j.0:message_singular>lavazza passionale</j.0:message_singular>
+    <j.2:example>lavazza passionale</j.2:example>
+    <j.2:example>passionale</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>lavazza passionale</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/light blue">
+    <j.0:message_not>azzur</j.0:message_not>
+    <j.0:message_plural>azzur</j.0:message_plural>
+    <j.0:message_singular>azzur</j.0:message_singular>
+    <j.2:example>azzurr</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>light blue</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A27">
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first rdf:resource="http://eu.reply.it/Lavazza#class/domain"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A28">
+    <rdf:rest rdf:nodeID="A29"/>
+    <rdf:first rdf:resource="http://eu.reply.it/quantity"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A30">
+    <rdf:rest rdf:nodeID="A24"/>
+    <rdf:first rdf:resource="http://eu.reply.it/cheap"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A9">
+    <rdf:rest rdf:nodeID="A30"/>
+    <rdf:first rdf:resource="http://eu.reply.it/roasting"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A31">
+    <rdf:rest rdf:nodeID="A25"/>
+    <rdf:first rdf:resource="http://eu.reply.it/price"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A32">
+    <rdf:rest rdf:nodeID="A26"/>
+    <rdf:first rdf:resource="http://eu.reply.it/time ready"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/Lavazza#property/applicable">
+    <rdfs:range rdf:resource="http://eu.reply.it/Lavazza#class/domain"/>
+    <rdfs:domain rdf:resource="http://eu.reply.it/Lavazza#class/action"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/lavazza delizioso">
+    <j.0:message_not>lavazza delizioso</j.0:message_not>
+    <j.0:message_plural>lavazza delizioso</j.0:message_plural>
+    <j.0:message_singular>lavazza delizioso</j.0:message_singular>
+    <j.2:example>lavazza delizioso</j.2:example>
+    <j.2:example>delizioso</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>lavazza delizioso</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/price">
+    <j.0:message_singular>con prezzo</j.0:message_singular>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <j.0:message_not>con prezzo</j.0:message_not>
+    <j.2:example>budjet</j.2:example>
+    <j.3:name>price</j.3:name>
+    <j.2:example>prezzo</j.2:example>
+    <j.2:example>costano</j.2:example>
+    <j.1:number rdf:resource="http://eu.reply.it/float"/>
+    <j.1:mod rdf:resource="http://eu.reply.it/more"/>
+    <j.2:example>costa</j.2:example>
+    <j.2:example>budget</j.2:example>
+    <j.0:message_plural>con prezzo</j.0:message_plural>
+    <j.1:mod rdf:resource="http://eu.reply.it/less"/>
+    <j.1:number rdf:resource="http://eu.reply.it/integer"/>
+    <j.1:unit rdf:resource="http://eu.reply.it/euro"/>
+    <j.2:example>costo</j.2:example>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/promo">
+    <j.1:value rdf:resource="http://eu.reply.it/false_promo"/>
+    <j.1:value rdf:resource="http://eu.reply.it/true_promo"/>
+    <j.0:message_not></j.0:message_not>
+    <j.0:message_plural></j.0:message_plural>
+    <j.0:message_singular></j.0:message_singular>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <j.3:name>promo</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/cheap">
+    <j.1:value rdf:resource="http://eu.reply.it/false_cheap"/>
+    <j.1:value rdf:resource="http://eu.reply.it/true_cheap"/>
+    <j.0:message_not></j.0:message_not>
+    <j.0:message_plural></j.0:message_plural>
+    <j.0:message_singular></j.0:message_singular>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <j.3:name>cheap</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/light">
+    <j.1:value rdf:resource="http://eu.reply.it/true_light"/>
+    <j.1:value rdf:resource="http://eu.reply.it/false_light"/>
+    <j.0:message_not></j.0:message_not>
+    <j.0:message_plural></j.0:message_plural>
+    <j.0:message_singular></j.0:message_singular>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <j.3:name>light</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/weight">
+    <j.2:example>pesi</j.2:example>
+    <j.0:message_not>con peso</j.0:message_not>
+    <j.1:mod rdf:resource="http://eu.reply.it/more"/>
+    <j.2:example>pesa</j.2:example>
+    <j.1:number rdf:resource="http://eu.reply.it/float"/>
+    <j.1:unit rdf:resource="http://eu.reply.it/kg"/>
+    <j.0:message_singular>con peso</j.0:message_singular>
+    <j.1:mod rdf:resource="http://eu.reply.it/less"/>
+    <j.2:example>peso</j.2:example>
+    <j.0:message_plural>con peso</j.0:message_plural>
+    <j.1:number rdf:resource="http://eu.reply.it/integer"/>
+    <j.3:name>weight</j.3:name>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/true_milkProgram">
+    <j.2:example>vapore</j.2:example>
+    <j.2:example>latte</j.2:example>
+    <j.0:message_not>con ricette latte</j.0:message_not>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.2:example>cose latte</j.2:example>
+    <j.2:example>cappuccin</j.2:example>
+    <j.0:message_plural>con ricette latte</j.0:message_plural>
+    <j.3:name>true_milkProgram</j.3:name>
+    <j.0:message_singular>con ricette latte</j.0:message_singular>
+    <j.2:example>ricette latte</j.2:example>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A33">
+    <rdf:rest rdf:nodeID="A28"/>
+    <rdf:first rdf:resource="http://eu.reply.it/name capsule"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/lavazza intenso">
+    <j.0:message_not>lavazza intenso</j.0:message_not>
+    <j.0:message_plural>lavazza intenso</j.0:message_plural>
+    <j.0:message_singular>lavazza intenso</j.0:message_singular>
+    <j.2:example>lavazza intenso</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>lavazza intenso</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/cyan">
+    <j.0:message_not>ciano</j.0:message_not>
+    <j.0:message_plural>ciano</j.0:message_plural>
+    <j.0:message_singular>ciano</j.0:message_singular>
+    <j.2:example>cian</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>cyan</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/true_slow">
+    <j.0:message_not>lente</j.0:message_not>
+    <j.0:message_plural>lente</j.0:message_plural>
+    <j.0:message_singular>lenta</j.0:message_singular>
+    <j.2:example>lent</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>true_slow</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/false_expensive">
+    <j.2:example>meno costos</j.2:example>
+    <j.0:message_plural>non care</j.0:message_plural>
+    <j.2:example>nè costos</j.2:example>
+    <j.2:example>ne' car</j.2:example>
+    <j.2:example>non car</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>false_expensive</j.3:name>
+    <j.2:example>nè car</j.2:example>
+    <j.0:message_not>non care</j.0:message_not>
+    <j.0:message_singular>non cara</j.0:message_singular>
+    <j.2:example>non costos</j.2:example>
+    <j.2:example>meno car</j.2:example>
+    <j.2:example>ne' costos</j.2:example>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/green">
+    <j.0:message_not>verde</j.0:message_not>
+    <j.0:message_plural>verde</j.0:message_plural>
+    <j.0:message_singular>verde</j.0:message_singular>
+    <j.2:example>verd</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>green</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/composition">
+    <j.0:message_not>composte da</j.0:message_not>
+    <j.1:value rdf:resource="http://eu.reply.it/barley"/>
+    <j.2:example>gusti</j.2:example>
+    <j.0:message_plural>composte da</j.0:message_plural>
+    <j.1:value rdf:resource="http://eu.reply.it/arabic"/>
+    <j.2:example>composizioni</j.2:example>
+    <j.2:example>gusto</j.2:example>
+    <j.1:value rdf:resource="http://eu.reply.it/robust"/>
+    <j.2:example>miscela</j.2:example>
+    <j.0:message_singular>composta da</j.0:message_singular>
+    <j.2:example>composizione</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <j.1:value rdf:resource="http://eu.reply.it/tea"/>
+    <j.3:name>composition</j.3:name>
+    <j.1:value rdf:resource="http://eu.reply.it/ginseng"/>
+    <j.2:example>contiene</j.2:example>
+    <j.2:example>compost</j.2:example>
+    <j.1:value rdf:resource="http://eu.reply.it/milk"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/text">
+    <j.0:message_not></j.0:message_not>
+    <j.0:message_plural></j.0:message_plural>
+    <j.0:message_singular></j.0:message_singular>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/extracted"/>
+    <j.3:name>text</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/barley">
+    <j.0:message_not>orzo</j.0:message_not>
+    <j.0:message_plural>orzo</j.0:message_plural>
+    <j.0:message_singular>orzo</j.0:message_singular>
+    <j.2:example>orzo</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>barley</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/name capsule">
+    <j.1:value rdf:resource="http://eu.reply.it/lavazza intenso"/>
+    <j.1:value rdf:resource="http://eu.reply.it/lavazza delizioso"/>
+    <j.1:value rdf:resource="http://eu.reply.it/lavazza tierra"/>
+    <j.1:value rdf:resource="http://eu.reply.it/lavazza divino"/>
+    <j.1:value rdf:resource="http://eu.reply.it/lavazza orzo"/>
+    <j.1:value rdf:resource="http://eu.reply.it/magia"/>
+    <j.0:message_not>dal nome</j.0:message_not>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <j.1:value rdf:resource="http://eu.reply.it/lavazza passionale"/>
+    <j.1:value rdf:resource="http://eu.reply.it/lavazza ricco"/>
+    <j.1:value rdf:resource="http://eu.reply.it/lavazza cereja passita"/>
+    <j.1:value rdf:resource="http://eu.reply.it/lavazza deck cremoso"/>
+    <j.0:message_plural>dal nome</j.0:message_plural>
+    <j.1:value rdf:resource="http://eu.reply.it/lavazza qualità rossa"/>
+    <j.1:value rdf:resource="http://eu.reply.it/lavazza soave"/>
+    <j.2:example>chiamano</j.2:example>
+    <j.1:value rdf:resource="http://eu.reply.it/lavazza selva alta"/>
+    <j.3:name>name capsule</j.3:name>
+    <j.2:example>chiama</j.2:example>
+    <j.1:value rdf:resource="http://eu.reply.it/lavazza aromatico"/>
+    <j.0:message_singular>dal nome</j.0:message_singular>
+    <j.1:value rdf:resource="http://eu.reply.it/lavazza dolce"/>
+    <j.1:value rdf:resource="http://eu.reply.it/lavazza caffè ginseng"/>
+    <j.1:value rdf:resource="http://eu.reply.it/lavazza magia"/>
+    <j.2:example>nome</j.2:example>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/confirmQuestion">
+    <j.0:message_not></j.0:message_not>
+    <j.0:message_plural></j.0:message_plural>
+    <j.0:message_singular>si abbiamo</j.0:message_singular>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/noAnswer"/>
+    <j.3:name>confirmQuestion</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A34">
+    <rdf:rest rdf:nodeID="A23"/>
+    <rdf:first rdf:resource="http://eu.reply.it/fast"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/minù caffè latte">
+    <j.0:message_not>minù caffè latte</j.0:message_not>
+    <j.0:message_plural>minù caffè latte</j.0:message_plural>
+    <j.0:message_singular>minù caffè latte</j.0:message_singular>
+    <j.2:example>lavazza minu caffè latte</j.2:example>
+    <j.2:example>minu caffè latte</j.2:example>
+    <j.2:example>lavazza minù caffè latte</j.2:example>
+    <j.2:example>minù caffè latte</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>minù caffè latte</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/lime">
+    <j.0:message_not>lime</j.0:message_not>
+    <j.0:message_plural>lime</j.0:message_plural>
+    <j.0:message_singular>lime</j.0:message_singular>
+    <j.2:example>verde limone</j.2:example>
+    <j.2:example>verde acido</j.2:example>
+    <j.2:example>lime</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>lime</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/false_autoOFF">
+    <j.0:message_not>senza spegnimento automatico</j.0:message_not>
+    <j.0:message_plural>senza spegnimento automatico</j.0:message_plural>
+    <j.0:message_singular>senza spegnimento automatico</j.0:message_singular>
+    <j.2:example>senza spegnimento automatico</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>false_autoOFF</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/autoOFF">
+    <j.1:value rdf:resource="http://eu.reply.it/true_autoOFF"/>
+    <j.1:value rdf:resource="http://eu.reply.it/false_autoOFF"/>
+    <j.0:message_not></j.0:message_not>
+    <j.0:message_plural></j.0:message_plural>
+    <j.0:message_singular></j.0:message_singular>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <j.3:name>autoOFF</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A35">
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/machine">
+    <j.1:hasA rdf:resource="http://eu.reply.it/thermoblock"/>
+    <j.1:hasA rdf:resource="http://eu.reply.it/features"/>
+    <j.1:hasA rdf:resource="http://eu.reply.it/time ready"/>
+    <j.2:example>macchinette del caffe</j.2:example>
+    <j.2:example>macchine da caffe</j.2:example>
+    <j.1:hasA rdf:resource="http://eu.reply.it/color"/>
+    <j.0:message_singular>macchina da caffè</j.0:message_singular>
+    <j.2:example>macchine per il caffe</j.2:example>
+    <j.3:template rdf:nodeID="A4"/>
+    <j.2:example>macchinette del caffè</j.2:example>
+    <j.1:hasA rdf:resource="http://eu.reply.it/fast"/>
+    <j.2:example>macchinette da caffe</j.2:example>
+    <j.2:example>macchinetta del caffè</j.2:example>
+    <j.1:hasA rdf:resource="http://eu.reply.it/promo"/>
+    <j.2:example>macchine</j.2:example>
+    <j.1:hasA rdf:resource="http://eu.reply.it/light"/>
+    <j.2:example>macchinette per il caffe</j.2:example>
+    <j.2:example>prodott</j.2:example>
+    <j.2:example>macchina per il caffè</j.2:example>
+    <j.1:hasA rdf:resource="http://eu.reply.it/tank capacity"/>
+    <j.1:hasA rdf:resource="http://eu.reply.it/programmable"/>
+    <j.2:example>macchina da caffe</j.2:example>
+    <j.1:hasA rdf:resource="http://eu.reply.it/brand"/>
+    <j.2:example>macchinetta da caffe</j.2:example>
+    <j.2:example>macchine del caffe</j.2:example>
+    <j.2:example>macchinette da caffè</j.2:example>
+    <j.2:example>macchinetta per il caffè</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/domain"/>
+    <j.1:hasA rdf:resource="http://eu.reply.it/price"/>
+    <j.1:hasA rdf:resource="http://eu.reply.it/milkProgram"/>
+    <j.2:example>macchina</j.2:example>
+    <j.1:hasA rdf:resource="http://eu.reply.it/cheap"/>
+    <j.2:example>macchina per il caffe</j.2:example>
+    <j.2:example>macchinetta</j.2:example>
+    <j.1:hasA rdf:resource="http://eu.reply.it/autoOFF"/>
+    <j.2:example>macchine da caffè</j.2:example>
+    <j.2:example>macchina da caffè</j.2:example>
+    <j.1:hasA rdf:resource="http://eu.reply.it/expensive"/>
+    <j.2:example>macchinette per il caffè</j.2:example>
+    <j.2:example>macchina del caffe</j.2:example>
+    <j.3:name>machine</j.3:name>
+    <j.2:example>macchinetta del caffe</j.2:example>
+    <j.1:hasA rdf:resource="http://eu.reply.it/weight"/>
+    <j.2:example>macchinette</j.2:example>
+    <j.0:message_plural>macchine da caffè</j.0:message_plural>
+    <j.1:hasA rdf:resource="http://eu.reply.it/name machine"/>
+    <j.1:hasA rdf:resource="http://eu.reply.it/heavy"/>
+    <j.1:hasA rdf:resource="http://eu.reply.it/slow"/>
+    <j.2:example>macchinetta da caffè</j.2:example>
+    <j.1:compatible rdf:resource="http://eu.reply.it/compatible"/>
+    <j.2:example>macchinetta per il caffe</j.2:example>
+    <j.2:example>macchina del caffè</j.2:example>
+    <j.0:message_not>macchine da caffè</j.0:message_not>
+    <j.2:example>macchine per il caffè</j.2:example>
+    <j.2:example>macchine del caffè</j.2:example>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A36">
+    <rdf:rest rdf:nodeID="A34"/>
+    <rdf:first rdf:resource="http://eu.reply.it/expensive"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A37">
+    <rdf:rest rdf:nodeID="A32"/>
+    <rdf:first rdf:resource="http://eu.reply.it/tank capacity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/euro">
+    <j.0:message_not>euro</j.0:message_not>
+    <j.0:message_plural>euro</j.0:message_plural>
+    <j.0:message_singular>euro</j.0:message_singular>
+    <j.2:example>€</j.2:example>
+    <j.2:example>euro</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/unit"/>
+    <j.3:name>euro</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/Lavazza#property/mod">
+    <rdfs:range rdf:resource="http://eu.reply.it/Lavazza#class/mod"/>
+    <rdfs:domain rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/Lavazza#classRelation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/Lavazza#output/message_singular">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A29">
+    <rdf:rest rdf:nodeID="A31"/>
+    <rdf:first rdf:resource="http://eu.reply.it/intensity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/lavazza">
+    <j.0:message_not>lavazza</j.0:message_not>
+    <j.0:message_plural>lavazza</j.0:message_plural>
+    <j.0:message_singular>lavazza</j.0:message_singular>
+    <j.2:example>lavazza</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>lavazza</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/name machine">
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <j.0:message_not>dal nome</j.0:message_not>
+    <j.0:message_singular>dal nome</j.0:message_singular>
+    <j.1:value rdf:resource="http://eu.reply.it/magia"/>
+    <j.1:value rdf:resource="http://eu.reply.it/fantasia"/>
+    <j.1:value rdf:resource="http://eu.reply.it/jolie"/>
+    <j.1:value rdf:resource="http://eu.reply.it/magia plus"/>
+    <j.1:value rdf:resource="http://eu.reply.it/minù"/>
+    <j.2:example>chiama</j.2:example>
+    <j.1:value rdf:resource="http://eu.reply.it/minù caffè latte"/>
+    <j.3:name>name machine</j.3:name>
+    <j.1:value rdf:resource="http://eu.reply.it/electrolux magia"/>
+    <j.2:example>nome</j.2:example>
+    <j.1:value rdf:resource="http://eu.reply.it/espria plus"/>
+    <j.2:example>chiamano</j.2:example>
+    <j.1:value rdf:resource="http://eu.reply.it/fantasia plus"/>
+    <j.0:message_plural>dal nome</j.0:message_plural>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A38">
+    <rdf:rest rdf:nodeID="A33"/>
+    <rdf:first rdf:resource="http://eu.reply.it/composition"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A39">
+    <rdf:rest rdf:nodeID="A40"/>
+    <rdf:first rdf:resource="http://eu.reply.it/thermoblock"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/true_promo">
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.2:example>offerte</j.2:example>
+    <j.2:example>in promozione</j.2:example>
+    <j.0:message_not>in promozione</j.0:message_not>
+    <j.0:message_singular>in promozione</j.0:message_singular>
+    <j.2:example>in offerta</j.2:example>
+    <j.3:name>true_promo</j.3:name>
+    <j.0:message_plural>in promozione</j.0:message_plural>
+    <j.2:example>sconto</j.2:example>
+    <j.2:example>sconti</j.2:example>
+    <j.2:example>promozioni</j.2:example>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/magia plus">
+    <j.0:message_not>magia plus</j.0:message_not>
+    <j.0:message_plural>magia plus</j.0:message_plural>
+    <j.0:message_singular>magia plus</j.0:message_singular>
+    <j.2:example>electrolux magia plus</j.2:example>
+    <j.2:example>magia plus</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>magia plus</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/time ready">
+    <j.1:unit rdf:resource="http://eu.reply.it/seconds"/>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <j.0:message_singular>con tempo di preparazione</j.0:message_singular>
+    <j.0:message_plural>con tempo di preparazione</j.0:message_plural>
+    <j.2:example>caffe pronto</j.2:example>
+    <j.1:mod rdf:resource="http://eu.reply.it/less"/>
+    <j.3:name>time ready</j.3:name>
+    <j.0:message_not>con tempo di preparazione</j.0:message_not>
+    <j.2:example>tempo preparazione</j.2:example>
+    <j.1:mod rdf:resource="http://eu.reply.it/more"/>
+    <j.2:example>tempo per un caffè</j.2:example>
+    <j.2:example>caffè pronto</j.2:example>
+    <j.1:number rdf:resource="http://eu.reply.it/integer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/lavazza cereja passita">
+    <j.0:message_not>lavazza cereja passita</j.0:message_not>
+    <j.0:message_plural>lavazza cereja passita</j.0:message_plural>
+    <j.0:message_singular>lavazza cereja passita</j.0:message_singular>
+    <j.2:example>lavazza cereja passita</j.2:example>
+    <j.2:example>cereja passita</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>lavazza cereja passita</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/false_bio">
+    <j.3:name>false_bio</j.3:name>
+    <j.2:example>non compostabili</j.2:example>
+    <j.0:message_not>non biodegradabili</j.0:message_not>
+    <j.0:message_plural>non biodegradabili</j.0:message_plural>
+    <j.2:example>non biodegradabili</j.2:example>
+    <j.2:example>non bio</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.0:message_singular>non biodegradabile</j.0:message_singular>
+    <j.2:example>non compostabile</j.2:example>
+    <j.2:example>non biodegradabile</j.2:example>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/Lavazza#class/action">
+    <j.3:classRelation rdf:resource="http://eu.reply.it/Lavazza#class/domain"/>
+    <j.3:complete rdf:nodeID="A8"/>
+    <j.3:template rdf:nodeID="A27"/>
+    <j.3:onlyOne rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</j.3:onlyOne>
+    <j.3:completeness rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</j.3:completeness>
+    <j.3:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">action</j.3:name>
+    <j.3:salience rdf:datatype="http://www.w3.org/2001/XMLSchema#long">100</j.3:salience>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/fantasia">
+    <j.0:message_not>fantasia</j.0:message_not>
+    <j.0:message_plural>fantasia</j.0:message_plural>
+    <j.0:message_singular>fantasia</j.0:message_singular>
+    <j.2:example>electrolux fantasia</j.2:example>
+    <j.2:example>fantasia</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>fantasia</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/expensive">
+    <j.1:value rdf:resource="http://eu.reply.it/true_expensive"/>
+    <j.1:value rdf:resource="http://eu.reply.it/false_expensive"/>
+    <j.0:message_not></j.0:message_not>
+    <j.0:message_plural></j.0:message_plural>
+    <j.0:message_singular></j.0:message_singular>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <j.3:name>expensive</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/false_heavy">
+    <j.0:message_not>non pesanti</j.0:message_not>
+    <j.0:message_plural>non pesanti</j.0:message_plural>
+    <j.0:message_singular>non pesante</j.0:message_singular>
+    <j.2:example>nè pensat</j.2:example>
+    <j.2:example>ne' pesant</j.2:example>
+    <j.2:example>non pesant</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>false_heavy</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/white">
+    <j.0:message_not>bianco</j.0:message_not>
+    <j.0:message_plural>bianco</j.0:message_plural>
+    <j.0:message_singular>bianco</j.0:message_singular>
+    <j.2:example>bianc</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>white</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A15">
+    <rdf:rest rdf:nodeID="A35"/>
+    <rdf:first rdf:resource="http://eu.reply.it/Lavazza#class/number"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A41">
+    <rdf:rest rdf:nodeID="A36"/>
+    <rdf:first rdf:resource="http://eu.reply.it/cheap"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/Lavazza#class/domain">
+    <j.3:classRelation rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <j.3:complete rdf:nodeID="A42"/>
+    <j.3:template rdf:nodeID="A22"/>
+    <j.3:onlyOne rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.3:onlyOne>
+    <j.3:completeness rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.3:completeness>
+    <j.3:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">domain</j.3:name>
+    <j.3:salience rdf:datatype="http://www.w3.org/2001/XMLSchema#long">90</j.3:salience>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/red">
+    <j.0:message_not>rosso</j.0:message_not>
+    <j.0:message_plural>rosso</j.0:message_plural>
+    <j.0:message_singular>rosso</j.0:message_singular>
+    <j.2:example>ross</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>red</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/Lavazza#output/message_plural">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/Lavazza#class/value">
+    <j.3:template rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <j.3:onlyOne rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</j.3:onlyOne>
+    <j.3:completeness rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.3:completeness>
+    <j.3:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">value</j.3:name>
+    <j.3:salience rdf:datatype="http://www.w3.org/2001/XMLSchema#long">40</j.3:salience>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A43">
+    <rdf:rest rdf:nodeID="A37"/>
+    <rdf:first rdf:resource="http://eu.reply.it/color"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/lavazza orzo">
+    <j.0:message_not>lavazza orzo</j.0:message_not>
+    <j.0:message_plural>lavazza orzo</j.0:message_plural>
+    <j.0:message_singular>lavazza orzo</j.0:message_singular>
+    <j.2:example>lavazza orzo</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>lavazza orzo</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/roasting">
+    <j.1:value rdf:resource="http://eu.reply.it/black"/>
+    <j.1:value rdf:resource="http://eu.reply.it/average"/>
+    <j.0:message_not>con tostatura</j.0:message_not>
+    <j.0:message_plural>con tostatura</j.0:message_plural>
+    <j.0:message_singular>con tostatura</j.0:message_singular>
+    <j.2:example>tostato</j.2:example>
+    <j.2:example>tostatura</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <j.3:name>roasting</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/milkProgram">
+    <j.1:value rdf:resource="http://eu.reply.it/true_milkProgram"/>
+    <j.1:value rdf:resource="http://eu.reply.it/false_milkProgram"/>
+    <j.0:message_not></j.0:message_not>
+    <j.0:message_plural></j.0:message_plural>
+    <j.0:message_singular></j.0:message_singular>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <j.3:name>milkProgram</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A3">
+    <rdf:rest rdf:nodeID="A38"/>
+    <rdf:first rdf:resource="http://eu.reply.it/bio"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A1">
+    <rdf:rest rdf:nodeID="A39"/>
+    <rdf:first rdf:resource="http://eu.reply.it/programmable"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/search">
+    <j.2:example>quali tipi</j.2:example>
+    <j.2:example>mi date</j.2:example>
+    <j.2:example>esistono</j.2:example>
+    <j.2:example>quanta</j.2:example>
+    <j.2:example>vorrei</j.2:example>
+    <j.2:example>voglio</j.2:example>
+    <j.1:applicable rdf:resource="http://eu.reply.it/capsule"/>
+    <j.2:example>mi interesserebbe</j.2:example>
+    <j.2:example>vendete</j.2:example>
+    <j.2:example>tipo</j.2:example>
+    <j.2:example>mi interesserebbero</j.2:example>
+    <j.2:example>mi interessa</j.2:example>
+    <j.2:example>disponibili</j.2:example>
+    <j.2:example>qual è</j.2:example>
+    <j.2:example>ho bisogno</j.2:example>
+    <j.2:example>mi piacerebbe</j.2:example>
+    <j.2:example>interessato</j.2:example>
+    <j.2:example>mi servirebbero</j.2:example>
+    <j.2:example>come si</j.2:example>
+    <j.2:example>disponibile</j.2:example>
+    <j.1:applicable rdf:resource="http://eu.reply.it/machine"/>
+    <j.0:message_not>non abbiamo</j.0:message_not>
+    <j.0:message_plural>le</j.0:message_plural>
+    <j.3:name>search</j.3:name>
+    <j.2:example>vorrei acquistare</j.2:example>
+    <j.2:example>avrei bisogno</j.2:example>
+    <j.2:example>vorrei sapere</j.2:example>
+    <j.2:example>cercavo</j.2:example>
+    <j.2:example>mi servono</j.2:example>
+    <j.2:example>quanti tipi</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/action"/>
+    <j.2:example>sono presenti</j.2:example>
+    <j.0:message_singular>la</j.0:message_singular>
+    <j.2:example>mi servirebbe</j.2:example>
+    <j.2:example>vorrei comprare</j.2:example>
+    <j.2:example>quanto</j.2:example>
+    <j.2:example>quante</j.2:example>
+    <j.2:example>quali</j.2:example>
+    <j.2:example>avete</j.2:example>
+    <j.2:example>ci sono</j.2:example>
+    <j.2:example>qual'è</j.2:example>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/dump">
+    <j.0:message_not></j.0:message_not>
+    <j.0:message_plural></j.0:message_plural>
+    <j.0:message_singular></j.0:message_singular>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>dump</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/lavazza caffè ginseng">
+    <j.0:message_not>lavazza caffè ginseng</j.0:message_not>
+    <j.0:message_plural>lavazza caffè ginseng</j.0:message_plural>
+    <j.0:message_singular>lavazza caffè ginseng</j.0:message_singular>
+    <j.2:example>lavazza caffè ginseng</j.2:example>
+    <j.2:example>caffè ginseng</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>lavazza caffè ginseng</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/thanks">
+    <j.0:message_not>Grazie a te</j.0:message_not>
+    <j.0:message_plural></j.0:message_plural>
+    <j.0:message_singular></j.0:message_singular>
+    <j.2:example>la ringrazio</j.2:example>
+    <j.2:example>grazie</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/dialog"/>
+    <j.3:name>thanks</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/fantasia plus">
+    <j.0:message_not>fantasia plus</j.0:message_not>
+    <j.0:message_plural>fantasia plus</j.0:message_plural>
+    <j.0:message_singular>fantasia plus</j.0:message_singular>
+    <j.2:example>electrolux fantasia plus</j.2:example>
+    <j.2:example>fantasia plus</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>fantasia plus</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A42">
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/minù">
+    <j.0:message_not>minù</j.0:message_not>
+    <j.0:message_plural>minù</j.0:message_plural>
+    <j.0:message_singular>minù</j.0:message_singular>
+    <j.2:example>lavazza minu</j.2:example>
+    <j.2:example>minu</j.2:example>
+    <j.2:example>lavazza minù</j.2:example>
+    <j.2:example>minù</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>minù</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A5">
+    <rdf:rest rdf:nodeID="A41"/>
+    <rdf:first rdf:resource="http://eu.reply.it/promo"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A7">
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first rdf:resource="http://eu.reply.it/compatible"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/Lavazza#property/compatible">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/Lavazza#class/dialog">
+    <j.3:onlyOne rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</j.3:onlyOne>
+    <j.3:completeness rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.3:completeness>
+    <j.3:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dialog</j.3:name>
+    <j.3:salience rdf:datatype="http://www.w3.org/2001/XMLSchema#long">20</j.3:salience>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/lavazza magia">
+    <j.0:message_not>lavazza magia</j.0:message_not>
+    <j.0:message_plural>lavazza magia</j.0:message_plural>
+    <j.0:message_singular>lavazza magia</j.0:message_singular>
+    <j.2:example>lavazza magia</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>lavazza magia</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/features">
+    <j.2:example>proprietà</j.2:example>
+    <j.1:value rdf:resource="http://eu.reply.it/dump"/>
+    <j.0:message_not></j.0:message_not>
+    <j.2:example>informazione</j.2:example>
+    <j.0:message_singular>ha caratteristiche</j.0:message_singular>
+    <j.2:example>informazioni</j.2:example>
+    <j.2:example>caratteristiche</j.2:example>
+    <j.2:example>panoramica</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <j.0:message_plural>hanno caratteristiche</j.0:message_plural>
+    <j.3:name>features</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/true_bio">
+    <j.2:example>100% biodegradabili</j.2:example>
+    <j.0:message_singular>biodegradabile</j.0:message_singular>
+    <j.0:message_plural>biodegradabili</j.0:message_plural>
+    <j.2:example>compostabili</j.2:example>
+    <j.2:example>100% biodegradabile</j.2:example>
+    <j.2:example>biodegradabile</j.2:example>
+    <j.2:example>bio</j.2:example>
+    <j.0:message_not>biodegradabili</j.0:message_not>
+    <j.3:name>true_bio</j.3:name>
+    <j.2:example>biodegradabili</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.2:example>compostabile</j.2:example>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/courtesy">
+    <j.0:message_not></j.0:message_not>
+    <j.0:message_plural></j.0:message_plural>
+    <j.0:message_singular></j.0:message_singular>
+    <j.2:example>gentilmente</j.2:example>
+    <j.2:example>cortesemente</j.2:example>
+    <j.2:example>per favore</j.2:example>
+    <j.2:example>per piacere</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/dialog"/>
+    <j.3:name>courtesy</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A40">
+    <rdf:rest rdf:nodeID="A43"/>
+    <rdf:first rdf:resource="http://eu.reply.it/milkProgram"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/lavazza divino">
+    <j.0:message_not>lavazza divino</j.0:message_not>
+    <j.0:message_plural>lavazza divino</j.0:message_plural>
+    <j.0:message_singular>lavazza divino</j.0:message_singular>
+    <j.2:example>lavazza divino</j.2:example>
+    <j.2:example>divino</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>lavazza divino</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/thermoblock">
+    <j.1:value rdf:resource="http://eu.reply.it/false_thermoblock"/>
+    <j.1:value rdf:resource="http://eu.reply.it/true_thermoblock"/>
+    <j.0:message_not></j.0:message_not>
+    <j.0:message_plural></j.0:message_plural>
+    <j.0:message_singular></j.0:message_singular>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/property"/>
+    <j.3:name>thermoblock</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/other_brand">
+    <j.0:message_not>diversa da lavazza</j.0:message_not>
+    <j.0:message_plural>diversa da lavazza</j.0:message_plural>
+    <j.0:message_singular>diversa da lavazza</j.0:message_singular>
+    <j.2:example>non lavazza</j.2:example>
+    <j.2:example>altre marche</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>other_brand</j.3:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.reply.it/true_heavy">
+    <j.0:message_not>pesanti</j.0:message_not>
+    <j.0:message_plural>pesanti</j.0:message_plural>
+    <j.0:message_singular>pesante</j.0:message_singular>
+    <j.2:example>pesant</j.2:example>
+    <rdf:type rdf:resource="http://eu.reply.it/Lavazza#class/value"/>
+    <j.3:name>true_heavy</j.3:name>
+  </rdf:Description>
+</rdf:RDF>
